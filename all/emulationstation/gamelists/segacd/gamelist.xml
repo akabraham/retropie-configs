@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Mortal Kombat.iso</path>
+		<name>Mortal Kombat</name>
+		<playcount>1</playcount>
+		<lastplayed>20161011T071531</lastplayed>
+	</game>
+	<game>
+		<path>./NBA Jam.cue</path>
+		<name>NBA Jam</name>
+		<playcount>1</playcount>
+		<lastplayed>20161011T071843</lastplayed>
+	</game>
+	<game>
+		<path>./Mortal_Kombat/Mortal Kombat.iso</path>
+		<name>Mortal Kombat</name>
+		<playcount>2</playcount>
+		<lastplayed>20161011T072300</lastplayed>
+	</game>
+	<game>
+		<path>./NBA_Jam/NBA Jam.iso</path>
+		<name>NBA Jam</name>
+		<playcount>3</playcount>
+		<lastplayed>20161011T111155</lastplayed>
+	</game>
+	<game>
+		<path>./NBA_Jam/NBA Jam.cue</path>
+		<name>NBA Jam</name>
+		<playcount>4</playcount>
+		<lastplayed>20161011T072436</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic_CD/Sonic CD.iso</path>
+		<name>Sonic CD</name>
+		<desc>Sonic's gameplay remains similar to that of Sonic the Hedgehog but with the addition of the Spin Dash and the Super Peel Out, which lets him zoom into a quick speed from a standing point.The main innovation of this chapter in the Sonic series is the manner in which the player can travel to four different versions of each zone, each a different time period of the same location: Present, Past, Good Future and Bad Future. This is accomplished by speed posts scattered around the level, bearing the labels "Past", and "Future". After running through one of these posts, the player has to run at top speed for a few seconds without stopping, to travel into the respective time period. Because these teleports are relative, there are no "Past" signs in the Past, and no "Future" signs in the Future; that is, warping to the past in the future returns the player to the "present" time and vice versa.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/segacd/Sonic CD-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19930923T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<playcount>5</playcount>
+		<lastplayed>20161011T111137</lastplayed>
+	</game>
+</gameList>

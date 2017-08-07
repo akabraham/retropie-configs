@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Marvel vs. Capcom 2.cdi</path>
+		<name>Marvel vs. Capcom 2: New Age of Heroes</name>
+		<desc>Marvel vs. Capcom 2: New Age of Heroes is a fighting game, developed and published by Capcom. It is the fourth game in the Marvel vs. Capcom series of fighting games. With the fourth installment of this series, Capcom simplified the player controls to make the gameplay more accessible to the wider audience of casual players. The button configuration was trimmed down to 4 main buttons and 2 assist buttons. The game also features a different air-combo system and 3 on 3 tag, compared to the 2 on 2 tag from previous games in the series.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Marvel vs. Capcom 2-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>20000630T000000</releasedate>
+		<developer>CAPCOM</developer>
+		<publisher>CAPCOM</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat Gold.cdi</path>
+		<name>Mortal Kombat Gold</name>
+		<desc>Gameplay of Mortal Kombat Gold is largely based on that in Mortal Kombat 4 and includes several additional characters and stages not seen in Mortal Kombat 4 and a new weapon select mechanism. A second revision of the game, Hot New, was released about a month after the initial release intending to address some of the major issues in it. This version fixed the most severe bugs and glitches in the game and added the VMU memory card support, which allowed the save feature to function properly.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Mortal Kombat Gold-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20160407T073546</lastplayed>
+	</game>
+	<game>
+		<path>./NBA Showtime.cdi</path>
+		<name>NBA Showtime: NBA on NBC</name>
+		<desc>The game features gameplay similar to its predecessors NBA Jam and NBA Hangtime. Rather than typical 5 on 5 action, this game features 2 on 2 play with the ability to pick two players from any NBA team's starting line-up for the first half and can choose again for the second.
+
+The game introduces personal fouls for each shove on another player; after a certain number of fouls the opposing team gets a free throw. The game retains the series standard "on fire" feature. After a player makes three consecutive shots he becomes "on fire", which allows him to easily make shots from almost anywhere, as well as goaltend without penalty and push opponents without being charged a foul. Play otherwise is similar to NBA rules.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/NBA Showtime-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20160403T044111</lastplayed>
+	</game>
+	<game>
+		<path>./Quake III Arena.cdi</path>
+		<name>Quake III Arena</name>
+		<desc>Unlike its predecessors, Q3A does not have a plot-based single-player campaign. Instead, it simulates the multiplayer experience with computer controlled players known as bots. The game's story is brief - 'the greatest warriors of all time fight for the amusement of a race called the Vadrigar in the Arena Eternal.'</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Quake III Arena-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20001022T000000</releasedate>
+		<developer>Raster</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Sonic Adventure.cdi</path>
+		<name>Sonic Adventure</name>
+		<desc>Centuries ago, the planet was bestowed the seven Chaos Emeralds. These emeralds were a source of unlimited power, and consequently it did not take long before wars broke out over who would control the Chaos Emeralds. There was also a Master Emerald, which was the controller of the Chaos Emeralds and could either negate or amplify the Chaos Emerald's power. One of the chao living near the shrine of the Emeralds accidentally made contact with the holy water in the shrine and mutated to become a peaceful creature that could use the power of water called Chaos and became the guardian of the rest of the chaos there. Later on, a tribe of echidnas, led by Pachamac, angered Chaos by attempting to steal the Chaos Emeralds, ruining the sanctuary it was protecting and attempted a mass massacre on the chao living there. They were all but completely destroyed within a single night and Chaos, in his fury, used the negative power of the Chaos Emeralds to transform into Perfect Chaos and slaughtered all the echidnas. Pachamac's daughter, Tikal, had pleaded with Pachamac but he refused to listen to her. Tikal then prayed to the Master Emerald after Perfect Chaos had left to destroy the entire world to seal herself with Chaos inside the Master Emerald.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Sonic Adventure-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19981223T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sonic Adventure 2.cdi</path>
+		<name>Sonic Adventure 2</name>
+		<desc>After discovering the existence of a secret weapon mentioned in the diary of his grandfather, Gerald Robotnik, Dr. Eggman infiltrates a high-security G.U.N. facility in search of it. This "weapon", a black hedgehog named Shadow who claims that he is the "Ultimate Life Form", offers to help Eggman take over the world, telling him to rendezvous with him at the abandoned Space Colony ARK with more Chaos Emeralds. Shadow proceeds in stealing one of the emeralds, and G.U.N. officials mistake him for Sonic. Sonic is apprehended shortly after he confronts Shadow, who demonstrates to Sonic the Chaos Control technique.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Sonic Adventure 2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20010619T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20160403T033420</lastplayed>
+	</game>
+	<game>
+		<path>./Soul Calibur.cdi</path>
+		<name>Soul Calibur</name>
+		<desc>SoulCalibur is a weapon-based 3D fighting game developed by Project Soul and produced by Namco. It is the second game in the Soul series, preceded by Soul Edge (1996). Originally released in arcades in 1998, it ran on the Namco System 12 hardware. In 1999 it was ported to the Dreamcast with improved graphics and new features. The North American version was released in September 1999 as a launch title for the Dreamcast and was part of the successful launch of the new console.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Soul Calibur-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Project Soul</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20160412T070300</lastplayed>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2.cdi</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<desc>The sequel to the award winning PSX and N64 title, Tony Hawk 2 adds heaps of new tricks, as well as those from the original, and a complete roster of all the greatest skaters worldwide. Fly through some of the greatest skate parks in the world, or create your own, and share them with your mates. You can also create your own skater, with a choice of clothing and official skateboards. Improved graphics and a choice of alternative or hip-hop music add to the endless options and full on action.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Tony Hawk's Pro Skater 2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20001106T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players />
+		<playcount>5</playcount>
+		<lastplayed>20160412T054518</lastplayed>
+	</game>
+	<game>
+		<path>./Virtua Tennis.cdi</path>
+		<name>Virtua Tennis</name>
+		<desc>Directly translated from the popular arcade stand-up, Virtua Tennis offers a light-year jump from the Pong-style tennis of yesteryear. Sporting rich 3-D graphics, crisp animation, and realistic sound effects, you'll swear you're courtside at a grand slam. But, thanks to the game's simple controls, you won't have to spend years at a tennis camp just learning a backhand. The game features hard-top, grass, and clay surfaces, all with distinct ball-bounce and sound responses. Choose one of eight internationally ranked tennis pros and play against advanced computer opponents, or plug an extra controller in and play a friend head to head. Just as in real championships, ball boys, chair umps, and even spectators react to your game.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Virtua Tennis-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>20000712T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20160407T074847</lastplayed>
+	</game>
+	<game>
+		<path>./Half Life.cdi</path>
+		<name>Half Life</name>
+		<playcount>2</playcount>
+		<lastplayed>20170225T020912</lastplayed>
+	</game>
+	<game>
+		<path>./Grand Theft Auto 2.cdi</path>
+		<name>Grand Theft Auto 2</name>
+		<desc>Lie, cheat, and steal your way through three districts of a huge city in the follow-up to Grand Theft Auto. Earn the respect of 7 different gangs as you demolish the town in your attempt to make lots of cash.
+
+The game takes place at an undisclosed time in the near future. Unlike the first game which featured three different cities, Grand Theft Auto 2 only features a single town, but it's divided in three districts which are unlocked one at a time: downtown, residential and industrial. Like in the original the player goes around answering phones to initiate various missions. The game uses an overhead camera in a 3D landscape and allows the player to freely explore the city and steal any vehicle the player sets his or her eyes on. To unlock new districts the player must reach a certain score which is done by committing crimes and finishing missions.
+
+Because the game now features multiple criminal gangs, the player must choose allegiances. Performing missions for one gang, will decrease the player's reputation for another. When the player commits crimes he also becomes wanted by the local police, but as more crimes are committed without shaking the police, they will give way for first SWAT Teams, then Special Agents and finally the army.
+
+New features include the ability to save at the church, when donating enough money, and various side missions, such as becoming a taxi driver to ear money. There are also many new cars with weapons attached such as a firetruck with a flamethrower and a car with machine guns.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/dreamcast/Grand Theft Auto 2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000430T000000</releasedate>
+		<developer>DMA Design Limited</developer>
+		<publisher>Rockstar</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>2</playcount>
+		<lastplayed>20170305T083905</lastplayed>
+	</game>
+</gameList>

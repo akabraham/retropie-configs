@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./zork1.dat</path>
+		<name>zork1</name>
+		<playcount>1</playcount>
+		<lastplayed>20160330T055540</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Doom</name>
+		<playcount>1</playcount>
+		<lastplayed>20160329T060141</lastplayed>
+	</game>
+	<game>
+		<path>./Quake III Arena.sh</path>
+		<name>Quake III Arena</name>
+		<playcount>1</playcount>
+		<lastplayed>20160412T065053</lastplayed>
+	</game>
+</gameList>

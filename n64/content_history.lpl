@@ -1,0 +1,36 @@
+/home/pi/RetroPie/roms/n64/Super Mario Star Road Final.z64
+
+/opt/retropie/libretrocores/lr-parallel-n64/parallel_n64_libretro.so
+ParaLLEl N64
+
+
+/home/pi/RetroPie/roms/n64/Super Mario Star Road Final.z64
+
+/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/home/pi/RetroPie/roms/n64/SM64 Chaos Edition V2.0.z64
+
+/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so
+Mupen64plus
+
+
+/home/pi/RetroPie/roms/n64/SM64 Chaos Edition V1.3.z64
+
+/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so
+Mupen64plus
+
+
+/home/pi/RetroPie/roms/n64/Legend of Zelda, The - Majora's Mask (U) [!].z64
+
+/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so
+Mupen64plus
+
+
+/home/pi/RetroPie/roms/n64/Super Mario 64 (U) [!].z64
+
+/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so
+Mupen64plus
+
+

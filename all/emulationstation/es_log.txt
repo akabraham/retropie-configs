@@ -1,0 +1,300 @@
+lvl2: 	EmulationStation - v2.1.5rp, built Mar 19 2017 - 18:21:46
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Checking available OpenGL extensions...
+lvl2: 	 ARB_texture_non_power_of_two: MISSING
+lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/amiga/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amiga/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amiga/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/amstradcpc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amstradcpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amstradcpc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "amstradcpc" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/apple2/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/apple2/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/apple2/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "apple2" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/arcade/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/arcade/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/arcade/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "arcade" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari2600/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari2600/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari5200/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari5200/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari5200/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari5200" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari7800/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari7800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari7800/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari7800" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari800/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari800/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari800" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atarilynx/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atarilynx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atarilynx/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atarilynx" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atarist/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atarist/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atarist/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atarist" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/c64/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/c64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/c64/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "c64" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "coco" (platform "coco" from list "coco")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/coco/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/coco/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/coco/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "coco" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "dragon32" (platform "dragon32" from list "dragon32")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/dragon32/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/dragon32/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/dragon32/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "dragon32" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/dreamcast/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/dreamcast/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/dreamcast/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/fba/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fba/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "fba" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "fds" (platform "fds" from list "fds")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/fds/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fds/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fds/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "fds" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gamegear/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gamegear/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gamegear/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "gamegear" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gb/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Avenging Spirit # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Game && Watch Gallery # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mario and Yoshi # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mario Land # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mario Land 2 - 6 Golden Coins # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mario Land 3 - Wario Land # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mega Man 3 # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Mortal Kombat 1 && 2 # GB.GB"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gb/Pokemon Red.gb"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gb/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gb/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gba/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gba/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gbc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gbc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gbc/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/intellivision/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/intellivision/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/intellivision/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "intellivision" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/macintosh/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/macintosh/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/macintosh/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-advmame/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-advmame" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-libretro/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-libretro" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-mame4all/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-mame4all" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mastersystem/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mastersystem/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mastersystem/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mastersystem" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/megadrive/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/megadrive/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/msx/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/msx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/msx/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "msx" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/n64/Mortal Kombat Trilogy (U) (V1.0) [!].z64"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/n64/Turok - Dinosaur Hunter (U) (V1.0) [!].z64"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/n64/Legend of Zelda, The - Ocarina of Time (U) (V1.1) [!].z64"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/n64/Glover (U) [!].z64"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/n64/NBA Hangtime (USA).n64"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/n64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/n64/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/neogeo/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/neogeo/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/neogeo/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "neogeo" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/nes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/nes/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ngp/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngp/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "ngp" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ngpc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngpc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "ngpc" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/pc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pc/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/pcengine/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pcengine/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pcengine/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "pcengine" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ports/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ports/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ports/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/psp/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psp/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "psp" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/psx/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psx/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/retropie/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/retropie/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Unknown platform for system "scummvm" (platform "scummvm" from list "scummvm")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/scummvm/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/scummvm/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/scummvm/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/sega32x/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sega32x/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sega32x/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "sega32x" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/segacd/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/segacd/Mortal Kombat.iso"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/segacd/NBA Jam.cue"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/segacd/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/segacd/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Unknown platform for system "sg-1000" (platform "sg-1000" from list "sg-1000")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/sg-1000/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sg-1000/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sg-1000/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "sg-1000" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/snes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/snes/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Unknown platform for system "vectrex" (platform "vectrex" from list "vectrex")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/vectrex/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/vectrex/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/vectrex/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "vectrex" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "videopac" (platform "videopac" from list "videopac")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/videopac/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/videopac/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/videopac/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "videopac" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/wonderswan/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/wonderswan/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/wonderswan/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "wonderswan" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/wonderswancolor/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/wonderswancolor/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/wonderswancolor/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "wonderswancolor" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "zmachine" (platform "zmachine" from list "zmachine")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zmachine/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/zmachine/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/zmachine/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zxspectrum/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/zxspectrum/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/zxspectrum/../carbon.xml")
+    could not find file "" 
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Super\ Mario\ World\ \(USA\).smc
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Super\ Mario\ World\ \(USA\).smc
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Super\ Mario\ World\ \(USA\).smc
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		sudo /home/pi/RetroPie-Setup/retropie_packages.sh retropiemenu launch /home/pi/RetroPie/retropiemenu/wifi.rp </dev/tty >/dev/tty
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Sony Computer Entertainment Wireless Controller (instance ID: 0, device index: 0)
+lvl2: 	Added/Updated 1 entities in '/home/pi/.emulationstation/gamelists/retropie/gamelist.xml'
+lvl2: 	Added/Updated 1 entities in '/home/pi/.emulationstation/gamelists/snes/gamelist.xml'
+lvl2: 	EmulationStation cleanly shutting down.

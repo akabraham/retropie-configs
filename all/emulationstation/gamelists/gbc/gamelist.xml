@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Grand Theft Auto (U) [C][!].gbc</path>
+		<name>Grand Theft Auto</name>
+		<desc>Experience for yourself every classic car chase ever seen. Race at breakneck speed through an immense, living city out-running and out-witting rival gang members, mercenaries, hired killers and an entire police force.
+
+Drive dozens of varied vehicles around three of America's toughest cities. Only the best will be able to tame the fastest cars. Only the smartest will know all the short-cuts and the whereabouts of the hottest wheels. Only the toughest will be able to take on the world and finish the job like a professional...</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Grand Theft Auto (U) [C][!]-image.png</image>
+		<releasedate>19991101T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Grand Theft Auto 2 (U) [C][!].gbc</path>
+		<name>Grand Theft Auto 2</name>
+		<desc>Grand Theft Auto comes to Game Boy Color! Seven ruthless gangs are involved in a brutal power struggle. Make a name for yourself, but watch your back. Respect is earned, not given. Intelligent gang system - earn and maintain the respect of gangs to get the best jobs and special favors or play the gangs off against each other in turf wars. Completely open and non-linear gameplay frees you to carve your own way to the top. Fully reactive urban environment which responds to your every move.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Grand Theft Auto 2 (U) [C][!]-image.jpg</image>
+		<releasedate>20001215T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Rockstar</publisher>
+		<genre>Sandbox</genre>
+	</game>
+	<game>
+		<path>./Mega Man Xtreme (U) [C][!].gbc</path>
+		<name>Mega Man Xtreme</name>
+		<desc>The future world is in turmoil. The peace keeping mother computer has been hacked and a virus runs rampant throughout the world. Only Mega Man X has the ability to traverse eight dangerous levels in cyberspace, battle huge bosses along the way and restore the mother computer to its normal state. When the going gets too intence, Mega Man X's pal, Zero can be summoned to help him out of the most dangerous situations. It's an X-treme situation that only Mega Man X can resolve!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Mega Man Xtreme (U) [C][!]-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20010111T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Pokemon - Crystal Version (UE) (V1.1) [C][!].gbc</path>
+		<name>Pokémon Crystal Version</name>
+		<desc>Pocket Monster mania continues with Nintendo's release of Pokémon Crystal for the Game Boy Color. Much as 1999's Pokémon Yellow offered gentle enhancements to the basic story and gameplay of the original Pokémon Red and Pokémon Blue games, Pokémon Crystal is based on the second-wave Pokémon Gold and Pokémon Silver releases.
+
+Though it follows the same story told in the Gold and Silver versions, Pokémon Crystal has some new options and special features. For the first time, gamers have the choice to play as a female trainer in this version. Also, just as Pokémon Yellow included a special Pikachu, trainers are aided by an unusual Suicune in this release. Pokémon Crystal is designed to offer a complete Pokémon experience for those new to the ubiquitous phenomenon and additional challenges for seasoned trainers who simply have to catch 'em all.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Pokemon - Crystal Version (UE) (V1.1) [C][!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20001214T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc</path>
+		<name>Super Mario Bros. Deluxe</name>
+		<desc>Bowser has once again taken over the Mushroom Kingdom, and it's up to Mario to put an end to his sinister reign. Battle Bowser's vile henchmen through 32 different levels - all taken directly from the 1985 classic! Then move on to collect special Red Coins and Yoshi Eggs in the Challenge Mode. Or face off against a friend and race through 8 competition courses in the all-new VS Mode! This time there's a lot more to do than just save a Princess, so get ready for a brick-smashin', pipe-warpin', turtle-stompin' good time!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Super Mario Bros. Deluxe (U) (V1.1) [C][!]-image.png</image>
+		<rating>0.4</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Tetris DX (JU) [C][!].gbc</path>
+		<name>Tetris DX</name>
+		<desc>Puzzle fans rejoice! The all-time puzzle favorite has returned! Tetris DX has everything you need to satisfy your puzzle appetite. Play MARATHON, the classic Tetris game. Try your hand at ULTRA or 40 LINES, two Tetris games with a twist. The VS. game will have you playing for hours!
+It that's not enough, Tetris DX is fully compatible with the new Game Boy® Color system! With the Game Link® cable, you can exchange saved information from one system to another! That's right, battery-backed memory saves up to three game files. Now your high scores will live on forever!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Tetris DX (JU) [C][!]-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160216T051936</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Link's Awakening DX.gbc</path>
+		<name>The Legend of Zelda: Link's Awakening DX</name>
+		<desc>Link’s latest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide.  As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.  This will not be an easy task.
+
+The island’s inhabitants have no knowledge of the outside world.  One creature, a talking owl, may know the solution to Link’s dilemma.  Link must first tackle eight dungeons full of treacherous monsters and tricky traps.  His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.
+
+* Experience the adventure in color!
+* Journey through a new dungeon (can only be accessed on the Game Boy Color system)!
+* Take pictures and print them using the Game Boy Printer (sold separately)!
+* Battery-backed memory saves up to three separate game files!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Link's Awakening DX-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Ages (U) [C][!].gbc</path>
+		<name>The Legend of Zelda: Oracle of Ages</name>
+		<desc>A pall of darkness has fallen over the land of Labrynna.  The Sorceress of Shadows, Veran, has captured the Oracle of Ages and is using her power for the ways of evil.  But hope is not lost… yet.  Link has been summoned to Labrynna by the Triforce, and he’ll need to bend the very fabric of time to save the Oracle.  And he must hurry, for time is running out…
+
+* Play the Harp of Ages!  Travel through time to affect events in both past and present!
+* Use tons of items!  Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like the Boomerang and Roc’s Feather.
+* Link gets reinforcements!  Fly, swim and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Oracle of Ages (U) [C][!]-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20010514T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160330T052656</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Seasons (U) [C][!].gbc</path>
+		<name>The Legend of Zelda: Oracle of Seasons</name>
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Oracle of Seasons (U) [C][!]-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20010514T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Wario Land 3 (World) (En,Ja).gbc</path>
+		<name>Wario Land 3</name>
+		<desc>Trapped inside a magical music box, the invincible Wario is on a dangerous quest to help a mysterious figure recover its lost powers! Smash, bash and crash your way through more than two dozen gigantic levels in search of hidden keys, valuable treasures and mystical music boxes. Test your wits on puzzle after intricate puzzle and flex your muscles in action-packed boss fights! Be wary of Wanderin' Gooms, Hammer-bots, Mad Scienstein and more as you plunge into one of the largest, most dazzling adventures ever to hit Game Boy Color!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Wario Land 3 (World) (En,Ja)-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>20000501T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>

@@ -1,0 +1,2793 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./ADVNTURE.BIN</path>
+		<name>Adventure</name>
+		<desc>Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Robinett even described the dragons as looking like ducks.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ADVNTURE-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./ADVNTRON.BIN</path>
+		<name>Adventures of TRON</name>
+		<desc>Adventures of TRON is based on the motion picture TRON from Walt Disney Productions.
+
+The game environment consists of 4 floors, each with flying "bits" as well as enemy MCP attackers. The objective of the game is to control TRON (you) in a maze of platforms and elevators while trying to intercept the flying bits (intercepting bits on higher floors are awarded higher points).
+
+Dodge enemy MCP attackers by jumping, using elevators and hitching a ride on the Silver Sailor. Capturing all 7 "bits" will take you to the next level, with added speed and difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ADVNTRON-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./AIR_RAID.BIN</path>
+		<name>Air Raid</name>
+		<desc>The object of this game is to defend the buildings at the bottom of the screen.
+
+There are four types of attacking ships moving down the screen. You are moving just above the buildings. The enemies are dropping bombs to try to damage your buildings or destroy you. You must fire missiles up to destroy them. The waves of enemies never ends.
+
+The game ends when all three of your ships are destroyed or when both buildings have taken so much damage that they collapse.
+
+There are eight game variations. Some where the ships move side-to-side while moving down, some where your shots move to the side when you do, some faster and some with combinations of any or all of these.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/AIR_RAID-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Men-A-Vision</developer>
+		<publisher>Men-A-Vision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./AIRLOCK.BIN</path>
+		<name>Airlock</name>
+		<desc>The player is trapped in a crashed nuclear submarine which has begun taking on water. They need to escape by making their way up the levels of the submarine one at a time. Each floor has two hatch keys that need to be collected in order to unlock the elevator to the next level. There is a time limit, though; if you take too long the floor will flood and you'll be unable to escape. Due to the crash, the torpedoes on board the submarine are now loose and wander across the floor as the boat shakes. The player will need to jump over any torpedoes that cross their path, or they will be stunned momentarily and lose precious time.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/AIRLOCK-image.jpg</image>
+		<rating>0.1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data Age</developer>
+		<publisher>Data Age</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ALIEN.BIN</path>
+		<name>Alien</name>
+		<desc>In this game based, loosely, on the movie of the same name, you have to move through a maze (the halls of your ship in the manual), ala Pac-Man, collecting dots (destroying alien eggs).
+
+If you collect the power dot (pulsar), you can kill any of the three aliens, for a short time. There are only three enemies in the maze at a time, there is a bonus item at times and only one power dot (pulsar) at a time. When you grab the pulsar, it will next appear in one of two other spots.
+
+After you clear one level, you get a bonus game. You have to move up the screen to the prize at the top past several aliens, reminiscent of Freeway. You do not lose a man if you fail but you only have eight seconds to do it then you are off the the next, harder level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ALIEN-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Fox Video Games, Inc.</developer>
+		<publisher>Fox Video Games, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ALPHBEAM.BIN</path>
+		<name>Alpha Beam With Ernie</name>
+		<desc>The object of Alpha Beam is to help Sesame Street's Ernie pilot a small shuttle, collect fuel tanks (marked by a letter of the alphabet), and return them to his space ship so that he can return to Earth.
+
+The game was marketed as a family-friendly game that could teach children pre-reading skills such as identifying and matching letters. Alpha Beam was compatible with the Atari Kid's Controller, which was sold separately, although the regular keyboard controller is also compatible</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ALPHBEAM-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./AMIDAR.BIN</path>
+		<name>Amidar</name>
+		<desc>As a paintbush, run over the borders of each rectangle to color them in in order to complete the level, while avoiding enemies. You can force them to jump to help you if they get in your way.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/AMIDAR-image.jpg</image>
+		<rating>0.3</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ARMAMBSH.BIN</path>
+		<name>Armor Ambush</name>
+		<desc>Each player has two tanks per battle. You'll fight one at a time, but you can switch command from tank to tank. Battlefields keep changing. Tanks move fast on roads, slower through trees, slowest through water. Simulated battle sounds and visuals - "cannon" fire, tanks "explode" after three direct hits, and more!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ARMAMBSH-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel</developer>
+		<publisher>Mattel</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./ASSAULT.BIN</path>
+		<name>Assault</name>
+		<desc>Assault was produced by Namco in 1988.
+
+Namco released 285 different machines in our database under this trade name, starting in 1978.
+
+Other machines made by Namco during the time period Assault was produced include Alice In Wonderland, Assault Plus, Baraduke 2, Beraboh Man, Face Off, Youkai Douchuuki, Wonder Momo, Shadowland, Quester, and Pac-Mania.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ASSAULT-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Asterix_NTSC.bin</path>
+		<name>Asterix</name>
+		<desc>Join your two favorite Gauls-Asterix and Obelix-on a fast-paced treasure hunt for Roman bounty. You'll need quick reflexes to grab the treasure while avoiding the deadly lyres of Cacofonix, the village bard. And watch out! The longer you play, the faster the lyres speed toward you!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Asterix_NTSC-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ASTEROID.BIN</path>
+		<name>Asteroid Belt</name>
+		<desc>Classical Atari 2600 game! In Asteroid Belt you are flying - guess what -  through an asteroid belt. Typical for Atari is the lack of and ending, so you´re shooting asteroids for points. You can fly and also shoot in four different directions and even control your speed. Sometimes there is a giant UFO trying to catch and kill you, so the fast speed is comming in handy, although you have to avoid the asteroids and flee from the giant UFO. 
+
+This is one of the few non-popular Atari games amongst the universe of Atari Space-games that is really good.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ASTEROID-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Suntek</developer>
+		<publisher>Suntek</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./ATLANTIS.BIN</path>
+		<name>Atlantis</name>
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ATLANTIS-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Bachlrtt.bin</path>
+		<name>Bachelorette Party</name>
+		<desc>Rescue a damsel in distress from being burned alive by moving around in your helicopter and putting out the flame with your fire hose. Meanwhile, avoid the rocks being thrown at you by the bad dudes. When you've nearly extinguished the flames, the woman will begin jumping up and down. If you swoop down, she'll latch on to your "joystick" with her mouth, and you can fly her off to safety before the flames move in on her. If you save her, you will be rewarded with a dirty little animation. The male and female roles of this game are switched in Jungle Fever.
+
+Bachelorette Party is an "x-rated" version of Breakout. Move the Spanish fly so that the woman comes in contact with it. She will then ricochet toward the men and "score" with each one she touches. She will then bounce back toward the fly. If you miss her, you lose a turn. The fun part is watching the men's willies go up and down as she flies toward them. The roles of the men and women are switched in Bachelor Party.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Bachlrtt-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre>Life Simulation</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160216T070451</lastplayed>
+	</game>
+	<game>
+		<path>./Bankhest.bin</path>
+		<name>Bankhest</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T052645</lastplayed>
+	</game>
+	<game>
+		<path>./Basic.bin</path>
+		<name>Basic Math</name>
+		<desc>Basic Math is a math game for children.
+
+Each game gives the player a set of ten basic math problems (i.e. simple addition, subtraction, multiplication, or division) to solve. The player is presented with two numbers and a function, then inputs the answer by cycling through numbers with the joystick. A timer option is available to ramp up the difficulty. The game has eight primary game settings - basically two settings for each mathematical function. Games 1-4 allow the player to select one of the numbers the player will be working with, while 5-8 give random questions.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Basic-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Basketbl.bin</path>
+		<name>Basketball</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Basketbl-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Batlzone.bin</path>
+		<name>Battlezone</name>
+		<desc>A standard enemy tank is worth 1,000 points when destroyed; a supertank is worth 3,000 points; and the flying saucer is worth 5,000 points. The guided missile is worth 2,000 points when destroyed. Each of these targets can be destroyed with a single shot from the player's tank. One bonus tank (a bonus "life" or "man") is awarded when the player's score reaches 15,000 points; an additional tank is then awarded at 100,000 points. 
+The player can hide behind the solids or maneuver in rapid turns once fired on to buy time with which to fire himself.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Batlzone-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Beanybop.bin</path>
+		<name>Beany Bopper</name>
+		<desc>Your job is to capture Beanies, Bouncing Orange Eyes, and a crazy variety of Falling Objects.  Beanies are devious and deadly and must be shot with the Bopper's stun gun before they can be captured.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Beanybop-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sirius Software</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Beatem.bin</path>
+		<name>Beat 'Em &amp; Eat 'Em</name>
+		<desc>Beat 'Em &amp; Eat 'Em is an "adult" electronic video game based upon an ancient ritual
+that has been passed down from generation-to-generation as part of the culture's oral
+tradition.
+
+The object of the game is to eat 'em every time he beats 'em. You score one point for
+each and every drop you swallow without a miss. But should you miss, shame on you. You lose one turn. After all, it could have been a famous doctor or lawyer.
+
+You have four turns at the outset of the game. Small squares in the lower left-hand
+corner of the screen indicate the remaining number of turns at any point in the game.
+
+You can earn "bonus turns" for every "69" points you score; however, you may
+accumulate no more than 6 turns plus the one in play at any given time.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Beatem-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mystique</developer>
+		<publisher>PlayAround</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Berenstain Bears (Coleco).bin</path>
+		<name>Berenstain Bears</name>
+		<desc>Berenstain Bears comes with three different cassette tapes that are designed to be used with the Kid Vid Controller (originally packaged with Smurfs Save the Day - the only other Kid Vid game). The cartridge won't do much without the tapes. At the beginning of each game, Actual Factual Bear takes off while you control Brother Bear on his unicycle. Avoid the boulders and cross the bridge to reach one of the games, chosen by the particular tape you are listening to. The games are: 
+Big Number Hunt: Catch the correct numbers as they fall from the tree 
+Great Letter Roundup: Catch the correct letters as they fall from the tree 
+Spooky Spelling Bee: Spell a word by catching the letters falling from the tree</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Berenstain Bears (Coleco)-image.jpg</image>
+		<releasedate>19831001T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Bermdtri.bin</path>
+		<name>Bermdtri</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T053609</lastplayed>
+	</game>
+	<game>
+		<path>./Black_j.bin</path>
+		<name>Blackjack</name>
+		<desc>Blackjack is based on the casino card game of the same name. You can play alone or with up to 2 other players against the computer that takes the role of the dealer.
+
+The game follows the same basic rules as its casino counterpart. Each player starts the game with 200 chips and each can bet from 1 to 25 chips to get a hand. A player breaks the bank when he reaches 1000 chips and loses when he has no more chips to bet. In both cases, he is removed from the game. At any time, a player may quit or resume the game by using the game select switch. A player who went broke or who reached 1000 chips may also stay on the game using the same switch. He will then start with 200 chips.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Black_j-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Puzzle</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Blueprnt.bin</path>
+		<name>Blueprint</name>
+		<desc>As in the arcade game of the same name, Blueprint gives you, as J.J., three chances to save the damsel in distress from a menacing creature chasing her across the top of the screen. Navigate J.J. through a maze of houses, which contain either a piece of the Rube-Goldberg-esque monster-fighting contraption whose blueprint lies at the bottom of the screen, or a bomb which must be disposed of in short order. Pressing the button will make J.J. run faster, but like so many who spend a lot of time sitting at the Atari 2600, he has a limited amount of "Fast run time" (as indicated by a handy bar graph). Smaller but still pesky monsters also pop out of the bomb disposal pit and try to prematurely start the machine (which shakes it to bits). Once that occurs, those monsters must be lured back to their pit, and the machine must be reassembled. Build the machine in time, and you can blast the creature who's chasing your girlfriend. The Atari 2600 edition simplifies the graphics drastically (though the most elaborate part of the playing field -- the blueprint itself -- is more or less intact), and drops the sound effects back to bare minimum (so much for the game's catchy little jazzy background tunes). There are no control issues, however, and the end result is still quite colorful and a lot of fun.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Blueprnt-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19831001T000000</releasedate>
+		<developer>CBS</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Puzzle</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Braingms.bin</path>
+		<name>Brain Games</name>
+		<desc>In Brain Games one or two players attempt to earn as many points as possible by solving various puzzles presented by the computer. There are six different puzzles included, which are:
+•Touch Me: The computer will play a sequence of tones. Each button on the controller represents a different tone, and by pressing the correct button you need to recreate the same sequence.
+•Count Me: The computer will display a sequence of numbers. Using the controller, you need to press the numbered buttons in the same order the computer displayed them.
+•Picture Me: The computer will display a series of symbols. It will then scramble the order they are displayed in, and you need to reorder the symbols back into their original configuration.
+•Find Me: The computer will display a series of objects on the screen, and you need to select the object which is dissimilar from the others. Your score is based on how fast you can successfully do this.
+•Add Me: The computer will display a list of numbers. You need to enter in the sum of the numbers before the timer runs out.
+•Play Me: This game allows you to play your own songs in free form mode; each button on the controller represents a musical note. Both controllers can be used for a duet, and several example songs are included in the instruction manual.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Braingms-image.jpg</image>
+		<rating>0.3</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Buckrog.bin</path>
+		<name>Buck Rogers: Planet of Zoom</name>
+		<desc>It's the 25th century.  You are Buck Rogers fighting the battle of Planet Zoom.  This is a race against death.  Your ultimate and most powerful enemy is the deadly MOTHER SHIP!
+
+There are 16 levels of increasing difficulty - each with four rounds of challenging space combat.  Before you meet the MOTHER SHIP, your pilot skills and nerve are tested against deadly ELECTRON POSTS, ALIEN SAUCERS and smashing SPACE HOPPERS.  This is a battle of speed, accuracy and endurance.  Your time consumption is crucial to your survival.  
+
+If you deplete your time you lose one of your five fighter ships.  The faster you fly, the sooner you'll get to the MOTHER SHIP, allowing yourself more time to destroy it.  You begin with a full time line when you destroy the MOTHER SHIP.  
+
+Be aggressive but don't be reckless.  This is do or die cosmic combat and it's the MOTHER SHIP or YOU!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Buckrog-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Califgms.bin</path>
+		<name>California Games</name>
+		<desc>Get ready for the gnarliest, most radically awesome sports events under the sun! They're six of California's hottest games. Geared for daredevils - and guaranteed to get your adrenaline pumping! First, pick your sponsor. Then tackle the heavy competition in surfing, rollerskating, BMX bike racing and more. Take risks to score high, 'cause wimps wipe out! Trophies are awarded for single events and overall competition! So grab your gear and go for it. You'll be up to your jams in awesome action. And you just might walk away with first prize!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Califgms-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Canyonb.bin</path>
+		<name>Canyon Bomber</name>
+		<desc>CANYON BOMBER GAMES
+
+GAME 1: Canyon Bomber (One-Player)
+Test your skill against the computer.  It's not an easy task.  You've got six misses in which to match wits with the computer for a higher score.  Each time the bricks in the canyon are hit, the remaining bricks "fall" to a lower level (rather than remaining stationary in their original position).  Bricks that fall to a lower level are worth the points designated for that level.
+
+Keep an eye on the solid bar beneath your score on the upper right side of the screen.  It is a "miss indicator" and gradually decreases in length each time you miss until six misses are recorded and the game ends.  The bar is also color-coordinated with your planes and your score.
+
+Set your sights for 1000 points.  Although the game will not end if you reach the 1000 point mark, it's an excellent goal to set for yourself since it will be very difficult to obtain.
+
+GAME 2: Canyon Bomber (Two-Player)
+This game differs from Game 1 only in that you are competing against another player rather than the computer.  Play ends when six misses are recorded against both players.  the player with the highest score wins. 
+
+Don't forget to keep an eye on your opponent's "miss indicator" as well as your own.  Bombs away!
+
+GAME 3: Canyon Bomber (One-Player)
+This one's the same as Game 1 with one exception.  Rather than falling to a lower level, the bricks in the canyon stay "suspended" in their original position when the surrounding bricks are hit.
+
+GAME 4: Canyon Bomber (Two-Player)
+You compete with another player the same as in Game 2.  This time however, the brick remain suspended instead of falling to a lower level.
+
+GAME 5: Canyon Bomber (Two-Player)
+Get set for a test of your endurance and concentration.  The first player to score 1000 points wins.  No time limit and no limit to the number of bombs or misses.  Falling, rather than suspended bricks are programed into this game.
+
+No "miss indicator" will appear on the screen in games with unlimited bombs.
+
+GAME 6: Canyon Bomber (Two-Player)
+This game program is identical to Game 5, except that the bricks stay suspended.
+
+
+SEA BOMBER GAMES
+
+GAME 7: Sea Bomber (One-Player)
+You're playing against the computer.  Set the level, release the bomb, and boom, you're ready for action.  Sounds easy, but the computer's a real steady competitor.  If you score 1000 points before the computer does, you're a winner!
+
+GAME 8: Sea Bomber (Two-Player)
+This time you're competing against another player in a race to the 1000 point mark.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Canyonb-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Cathouse.bin</path>
+		<name>Cathouse Blues</name>
+		<desc>In Cathouse Blues, you are a horny guy who has to memorize which 7 houses the ladies of ill repute wander into. Grab some cash from the teller, and visit each woman. A visit will cost $20, at which time you'll find yourself in her bed. Score with her as many times as you can before you're forced to leave for the next. The cops are in pursuit as well as a mugger who wants your money. Visiting a wrong house will cause you to be temporarily immobilized (a sitting duck for the cops) as you figure out what to do next. The roles of the men and women are switched in Gigolo.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cathouse-image.jpg</image>
+		<releasedate>19821001T000000</releasedate>
+		<developer>Playaround</developer>
+		<publisher>Playaround</publisher>
+		<genre>Adventure</genre>
+		<playcount>3</playcount>
+		<lastplayed>20160216T090020</lastplayed>
+	</game>
+	<game>
+		<path>./Centiped.bin</path>
+		<name>Centipede</name>
+		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Centiped-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Chalenge.bin</path>
+		<name>Challenge</name>
+		<desc>You as a duck must work your way through the maze from the bottom right-hand corner of the screen to the top left-hand corner in order to get the next level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Chalenge-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Zellers</developer>
+		<publisher>Funvision</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Codebrk.bin</path>
+		<name>Codebreaker</name>
+		<desc>This one's not for stupid people. The goal of codebreaker is to guess a 3 or 4 digit number in 12 tries. The computer lets you know when your on the right track with some vague clues. In the second game, NIM, you and your opponent strategically remove blocks in an attempt to be the one to remove the last block.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Codebrk-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19781001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players />
+	</game>
+	<game>
+		<path>./COKEWINS.BIN</path>
+		<name>Coke Wins</name>
+		<desc>Pepsi Invaders (also known as Coke Wins) is a video game for the Atari 2600 platform, based on the popular Space Invaders. It was commissioned by Coca-Cola for their 1983 sales convention, and developed by Atari as a modification of the original Space Invaders cartridge.
+
+The game is a modification of Space Invaders, with each row consisting of the letters P E P S I followed by an alien, instead of the original six aliens.[</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/COKEWINS-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Comandrd.bin</path>
+		<name>Commando Raid</name>
+		<desc>You are in defense of your buildings which have come under attack by android commando raiders. Without warning they appear, intent on capturing your buildings and destroying your gun emplacement.
+
+First the troop carrying helicopters fly in dropping android paratroopers to test your defenses. Soon the sky is filled with fluttering helicopters and wave after wave of android paratroopers. They must be destroyed! Each paratrooper allowed to land on a building destroys a portion of that building. If three paratroopers land on a building. It will be totally destroyed and must be considered under commando control.
+
+Worse still, the androids can now tunnel towards your gun emplacement. Each paratrooper who lands on that building expands the tunnel. If they are not stopped, they will plant an explosive charge under the gun.
+
+In the midst of the battle, an aircraft may appear. It will drop a devastating bomb which can destroy all buildings and the gun emplacement. You must shoot it down or at least shoot the bomb it drops. If you miss, its back to basic training!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Comandrd-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>U.S. GAMES CORPORATION</developer>
+		<publisher>U.S. GAMES CORPORATION</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./CONDOR.BIN</path>
+		<name>Condor Attack</name>
+		<desc>A Demon Attack rip-off. Sometimes the condors will explode before you shoot them and the game will become to fast to soon. However, that doesn't happen always, so it's pretty unexpected.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/CONDOR-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Ultravision</developer>
+		<publisher>Ultravision</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Cosmcark.bin</path>
+		<name>Cosmic Ark</name>
+		<desc>In the first stage, the player must fend off meteor showers from all four sides of the screen by pushing the joystick to fire in the desired direction. The second stage requires the player to pilot a shuttle to a planet and use its tractor beam to pick up life forms. While near the planet's surface, planetary defenses will fire at the shuttle. If hit, one previously captured specimen will be freed, forcing the player to retrieve another. After a set period of time, a klaxon will warn of renewed meteor activity, and the player must return immediately to defend the ark.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cosmcark-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Cosmcorr.bin</path>
+		<name>Cosmic Corridor</name>
+		<desc>Cosmic Corridor is similar to Atari's Vanguard, though it's graphically inferior. You control a ship that can fire in multiple directions. Fly through the tunnels in either direction shooting all of the bad guys.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cosmcorr-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19821001T000000</releasedate>
+		<developer>Zimag</developer>
+		<publisher>Zimag</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Cosmcrep.bin</path>
+		<name>Cosmic Creeps</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cosmcrep-image.jpg</image>
+		<rating>0</rating>
+		<developer>Telesys</developer>
+		<publisher>Telesys</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Cosmswrm.bin</path>
+		<name>Cosmic Swarm</name>
+		<desc>In Cosmic Swarm, you must use your Asteroids-like spacecraft to pick off space termites one by one. These pesky termites will place deadly blocks around the screen, making it difficult for you to fly around freely. If you manage to hit a termite as it carries its block, all of the blocks will turn red, and you can destroy them one by one until you hit another termite. Also, you'll need to contact the fuel ship whenever it appears in order to keep your ship operational.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cosmswrm-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19821001T000000</releasedate>
+		<developer>CommaVid</developer>
+		<publisher>CommaVid</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Crshdive.bin</path>
+		<name>Crash Dive</name>
+		<desc>Crash Dive is a Defender-esque game in which you fly across the screen shooting stuff. But in this case, you can fly like an airplane or crash into the water and travel like a submarine. Treasures can be found at the bottom of the sea whenever you see sea monsters or mines. The objective is to reach the submarine Seaview before your fuel runs out</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Crshdive-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19831001T000000</releasedate>
+		<developer>Fox</developer>
+		<publisher>Fox</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Crazclmb.bin</path>
+		<name>Crazy Climber</name>
+		<desc>As Crazy Climber, climb your way to the top of a series of buildings, where a helicopter is waiting to pick you up and take you to the next building. As Climber scales a building, he is able to climb up and sideways but he cannot climb down. While climbing a building, windows will open and close simultaneously. If any window closes on either of his hands he will lose his grip. However, if a window closes on both of his hands, he will fall to his death, resulting in the loss of a life. You have three Climbers in total, but you are awarded an extra Climber every 30,000 points. Besides windows, Climber is faced with other dangers, including:
+
+-Bald-headed guys who hurl various objects at you.
+-Pesky condors who fly by, dropping eggs and droppings of an unpleasant substance.
+-Falling steel girders and iron dumbells.
+-Electrical "Nichibutsu" signs with a dangling live wire.
+-Falling "Crazy Climber" signs.
+-King Kong leaping from side to side of the building and slams his hands against the windows.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Crazclmb-image.jpg</image>
+		<rating>0</rating>
+		<developer>Nihon Bussan</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Crusmisl.bin</path>
+		<name>Cruise Missile</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Crusmisl-image.jpg</image>
+		<rating>0</rating>
+		<developer>Froggo</developer>
+		<publisher>Froggo</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Cryscast.bin</path>
+		<name>Crystal Castles</name>
+		<desc>Bentley Bear is trapped in the Crystal Castles! To get out, he will need to collect all of the gems located throughout the castle. The game is played with an isometric view of the multi platformed castle. When Bentley collects all of the gems on the current castle, he will move on to the next, more difficult castle. Wandering throughout the castles are a wide variety of dangerous creatures, which Bentley should avoid. From time to time, a magic hat will appear. If Bentley collects the hat, he will temporarily be invincible to the castles inhabitants.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cryscast-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Custerev.bin</path>
+		<name>Custer's Revenge</name>
+		<desc>Custer's Revenge (also known as Westward Ho and The White Man Came) is a controversial video game made for the Atari 2600 by Mystique, a company that produced a number of adult video game titles for the system. The player character is based on General George Armstrong Custer. The game has received significant criticism because of its crude simulation of a rape of a Native American woman.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Custerev-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19821018T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<playcount>3</playcount>
+		<lastplayed>20160216T085403</lastplayed>
+	</game>
+	<game>
+		<path>./Darkcvrn.bin</path>
+		<name>Dark Cavern</name>
+		<desc>It's a battle for survival in an underground cavern!  You have five men. They enter the cavern one at a time through the center trap door.  Once inside, blobs, spiders and robots begin to enter the left and right doors. (Neither the creatures nor the man can exit through these doors.)
+
+Direct your man down the tunnels.  Pick up ammunition as you go.  Keep clear of the creatures... avoid robot fire.  Shoot to destroy!  Get hit by a robot's bullet... action stops.
+
+Now bring out your next man... get them before they get you!!!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Darkcvrn-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>M-Network</developer>
+		<publisher>M-Network</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Darkcham.bin</path>
+		<name>Dark Chambers</name>
+		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Darkcham-image.jpg</image>
+		<rating>0</rating>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dbldragn.bin</path>
+		<name>Dbldragn</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T054153</lastplayed>
+	</game>
+	<game>
+		<path>./Deadduck.bin</path>
+		<name>Deadly Duck</name>
+		<desc>Deadly Duck's job is to score points by blasting his enemy the Crabs, their Bricks and the Dragonflies. Deadly can keep shooting as long as he avoids getting bonked by a falling Brick or hit by a Dragonfly's Bomb.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Deadduck-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sirius Software</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Dethtrap.bin</path>
+		<name>Death Trap</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Dethtrap-image.jpg</image>
+		<rating>0</rating>
+		<developer>Avalon Hill</developer>
+		<publisher>Avalon Hill</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Decathln.bin</path>
+		<name>Decathlon</name>
+		<desc>Up to four players compete in the ten different events of a real-life decathlon, either in sequence or individually. The game became somewhat notorious for the amount of wear or damage inflicted upon console controllers, where rapid back-and-forth movement of the joystick propels the athlete down the track.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Decathln-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Dk.bin</path>
+		<name>Dk</name>
+		<playcount>1</playcount>
+		<lastplayed>20160216T090529</lastplayed>
+	</game>
+	<game>
+		<path>./E_t.bin</path>
+		<name>E.T. the Extra-Terrestrial</name>
+		<desc>The object of the game is to find pieces of E.T.'s phone. Once all pieces are found, E.T. calls home and the spaceship arrives to pick him up. E.T. can collect Reese's Pieces scattered around in order to regain energy which is constantly depleted with time.
+
+The phone pieces are in some of the pits, and E.T. must jump in to get them; sometimes there's also a dead flower in the pit which provides extra points if brought back to life. Once E.T. has done his business in the pit, to get out he must levitate his way out, though he must watch out not to fall into the pit again after leaving.
+
+Evil scientists and agents wander around the area, trying to capture E.T. and steal the parts he's carrying.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/E_t-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19820701T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./ElevatorAction.bin</path>
+		<name>Elevator action</name>
+		<desc>Elevator Action is an unreleased prototype that is about 95% complete. There are some issues with collision detection, but overall it is quite playable. At Classic Gaming Expo 2001, CGE Services Corp. released Elevator Action with an Atari-style box and label. Around 200 copies of the game were available at the show and they were sold out by the day's end.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ElevatorAction-image.jpg</image>
+		<rating>0</rating>
+		<developer>CGE Services Corp.</developer>
+		<publisher>CGE Services Corp.</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20160219T060002</lastplayed>
+	</game>
+	<game>
+		<path>./Fastedie.bin</path>
+		<name>Fast Eddie</name>
+		<desc>Your objective is to help Eddie capture as many floating prizes as he can jump up and grab.  You must keep Eddie hopping over the pesky little Sneakers while guiding him up, down and around the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Fastedie-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sirius Software</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Fastfood.bin</path>
+		<name>Fast Food</name>
+		<desc>Burgers, fries, shakes, pizzas . . . Flying by at sub-gastronomical speeds. You and Mr. Mouth have to catch 'em if you can. The higher the calorie count, the better your score. The more calories you consume the faster the food flies. 
+
+But beware the purple pickles! Catch too many and your binge is over.
+
+No matter how much you eat, you'll never gain a pound.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Fastfood-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Telesys</developer>
+		<publisher>Telesys</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Fatalrun.bin</path>
+		<name>Fatal Run</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Fatalrun-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre>Racing</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Flagcap.bin</path>
+		<name>Flag Capture</name>
+		<desc>Each player controls an explorer. Your object is to find the flag using your explorer. The left controller player's explorer starts in the upper left corner square; the right controller player's explorer starts in the lower right corner square.
+
+Explorers can move from square to square. During your turn, you can move your explorer to any square position. To move the explorer up or down the maze, move the Joystick up or down. To move the explorer to the right or left, move the Joystick to the right or left. Move the explorer to diagonal squares by moving the Joystick in one of the four diagonal directions you want.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Flagcap-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Flashgrd.bin</path>
+		<name>Flash Gordon</name>
+		<desc>Many dedicated Spacemen have entered Spider City but none has ever been heard from again.  It is up to you, Flash Gordon, to rescue any surviving Spacemen and to conquer this hideous city of tunnels.  Spider City is conquered when all of its Hatching Pods are eliminated.  It doesn't hurt to blast a few Generators or enemy Patrol Ships while you're there.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Flashgrd-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sirius Software</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Frogger2.bin</path>
+		<name>Frogger II: Threeedeep!</name>
+		<desc>In Frogger II, you need to guide your frog to safety in three different locations. Starting out underwater, reach the top of the pond while avoiding dangerous alligators and fish (you can ride a turtle for safety!). Once on top of the pond, hop across logs, birds, and even a whale to the life preserver trailing behind a tugboat. In the third location you have to hop across a flock of birds to reach a cloud at the top of the screen. Each frog has a time limit to safely reach one of the homes on each of the three screens. You move on to the next level when a frog has safely reached each of the homes on all screens.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Frogger2-image.jpg</image>
+		<rating>0</rating>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Frntline.bin</path>
+		<name>Frontline</name>
+		<desc>Front Line (フロントライン Furonto Rain?) is a military-themed run &amp; gun shooter game released by Taito for arcades in 1982. It was one of the first video games to feature a ground combat theme and grenades.[citation needed] Military-oriented video games of the early 1980s usually involved vehicular combat, such as tanks, but did not include infantry. The original arcade version of Front Line consists of a joystick, a single button, and a rotary dial that can be pushed in like a button, which fires the weapon. The single button is used to throw grenades, and to enter and exit the tank.
+
+1985's Ikari Warriors follows the conventions established by Front Line, including the vertically scrolling levels, entering/exiting tanks, and not dying when an occupied tank is destroyed.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Frntline-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Frostbit.bin</path>
+		<name>Frostbite</name>
+		<desc>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0°. You have four lives.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Frostbit-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830814T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./aciddrop.BIN</path>
+		<name>Acid Drop</name>
+		<desc>A falling block game similar to Columns. The object of the game is to create a horizontal or vertical line of three or more blocks of the same color, which will then disappear. The remaining blocks will fall down, but won't disappear if they form another line. Every 10,000 points a special block will appear (the Acid Drop) which removes three columns of blocks and marks the beginning of the next level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/aciddrop-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Salu</developer>
+		<publisher>Salu Ltd.</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Raiders.bin</path>
+		<name>Air Raiders</name>
+		<desc>Start with lots of ammo and your fuel tank full! Shoot down enemy planes. Dodge enemy ground shells. Get hit and you lose altitude! Watch your gauges. Don't crash! Land to refuel after you make ten hits! Take off again... Game ends when you run out of ammo or crash!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Raiders-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel</developer>
+		<publisher>Mattel</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./ART_DUEL.BIN</path>
+		<name>Artillery Duel</name>
+		<desc>A two player game of skill and strategy as you try to knock out your enemy's gun emplacement. New random terrains in each battle!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/ART_DUEL-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Action Graphics</developer>
+		<publisher>XONOX</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Vidcube.bin</path>
+		<name>Atari Video Cube</name>
+		<desc>Help Hubie the Cube Master solve the magical Atari Video Cube. He picks up and drops colors at your command - and you have billions of possible combinations! Atari Video Cube is fast-paced fun for the whole family!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Vidcube-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players />
+	</game>
+	<game>
+		<path>./bobbygh.bin</path>
+		<name>Bobby is Going Home</name>
+		<desc>The player controls a boy named Bobby who has to pass through seven screens, jump over animals like butterflies, ducks and other hazards. The game play resembles Pitfall, a game released by Activision. At the end of the game all the player has to do is get Bobby into the house, and there the next level will show. Hitting reset and select change the style of flowers that show at the bottom of the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/bobbygh-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bit Corporation</developer>
+		<publisher>CCE</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20160219T053220</lastplayed>
+	</game>
+	<game>
+		<path>./bugsbun.bin</path>
+		<name>Bugs Bunny</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/bugsbun-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./NEXAR.BIN</path>
+		<name>Challenge of Nexar</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NEXAR-image.jpg</image>
+		<developer>Sirius Software</developer>
+		<publisher>Spectravision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./combat2.bin</path>
+		<name>Combat Two</name>
+		<desc>Combat 2 is video game for the Atari 2600. Originally announced in 1982, it was subsequently cancelled. Developed by Atari, the game was supposed to be the sequel to the classic Atari VCS game Combat, which was bundled with the system. In 2005 it finally saw release on the Atari Flashback 2 dedicated console, and has seen two subsequent releases, the first in the 2011 Nintendo DS compilation Atari's Greatest Hits Volume II and the second in the iPhone and Android app Atari Greatest Hits, initially released in 2012.
+
+Environments were an arena with a river in the middle with two bridges, forests that the tanks can use for cover, and brick walls that could be shot through or used for cover. The tanks themselves moved by themselves with the player turning the tank and controlling the speed. This game had three lives that could be used — three hits and the player loses a life — while the original allowed you to get as many shots in until the time ran out. The graphics overall were improved over the original.
+
+The game was cancelled, probably due to the video game crash of 1983, and was forgotten until 200 copies of the prototype were produced in cartridge form and sold at the Classic Gaming Expo in 2001. The prototype featured the unfinished game, which included the features listed above, but people were surprised to find a level editor inside the game.
+
+The game was featured in Retro Gamer Issue 15 in the "Games That Weren't" section.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/combat2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dumbo.BIN</path>
+		<name>Dumbo's Flying Circus</name>
+		<desc>Dumbo's Flying Circus was scheduled to be part of Atari's children's series (which included characters from Peanuts, Sesame Street, Disney, Muppets, and Garfield), but for one reason or another it never saw the light of day.  Atari advertised Dumbo in European Atari catalogs and even had a prototype box made, so the decision to shelve it must have been made quite late.  Even though Dumbo was developed as a children's game, the gameplay is quite difficult which may be the reason why it was never released.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/dumbo-image.jpg</image>
+		<developer>Prototype</developer>
+		<publisher>Prototype</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Earthdie.bin</path>
+		<name>Earth Dies Screaming</name>
+		<desc>You pilot a defense ship in orbit above Earth. Destroy the invaders as they kamikaze into the atmosphere in an attempt to eliminate your precious home world. When (not if) the Earth's shields run out of energy or your ship is destroyed, the planet goes "bye-bye". You can restore your energy by finding and destroying an enemy attack base. The only way to find one of those is by following a returning fighter to the base.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Earthdie-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer />
+		<publisher>Fox</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Ghostbst.bin</path>
+		<name>Ghostbusters</name>
+		<desc>When there's something strange in your neighborhood ...who ya gonna call? Ghostbusters for your Atari 2600!
+
+With a $5,000 loan from the bank, you're out to start your own ghostbusting business. You make money by catching ghosts and must earn more than $10,000 before the dangerous psychokinetic (PK) energy emissions reach critical mass.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Ghostbst-image.jpg</image>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Ghostbusters2_v2.bin</path>
+		<name>Ghostbusters II</name>
+		<desc>Ghostbusters II by Activision (the makers of the original Atari VCS Ghostbusters game) never even hit a store shelf in the United States. With the video game market (circa 1989) having shifted toward more advanced systems like the NES and Sega Master System, Activision felt it would be wasting its time releasing a new VCS game. Yet it was released overseas by Salu. In scenes inspired by the movie of the same name, Ghostbusters II puts players in the shoes of the apparition-apprehending heroes as they descend into a slime-filled underground tunnel, trying to blast ghosts and collect samples of "mood slime." Ghosts will attack both the player's Ghostbuster and the rope he's hanging from, and the Ghostbuster's "courage" meter must be monitored as well (though that can be replenished by picking up "elixir" power-ups in the tunnel). In the game's second level, players guide a mobile Statue of Liberty through the streets of New York City (echoing the movie's goofy climax), fending off more ghosts with her fireball-shooting torch and trying to keep a steady supply of "mood slime" to keep the statue moving.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Ghostbusters2_v2-image.jpg</image>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Salu</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Grandprx.bin</path>
+		<name>Grand Prix</name>
+		<desc>Grand Prix is a Formula One Grand Prix motor racing-themed video game, and one of the first side-scrolling racing video games. It was designed and programmed by David Crane for the Atari 2600 video game console, and published by Activision in 1982.
+
+Grand Prix was the first Atari 2600 game to feature shaded objects in color. When David Crane developed an Atari 2600 programming technique for painting large, multicolored sprites on the screen, he made a color pattern that reminded him of Grand Prix racing stripes. This inspired him to design a Grand Prix racing game to apply his new technique.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Grandprx-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>David Crane</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Haloween.bin</path>
+		<name>Halloween</name>
+		<desc>A homicidal maniac has escaped from a mental institution.  On Halloween night, the killer returns to his home town to wreak havoc!  You are babysitting for a family in a large, two story house.  Somehow the vengeful murderer has gotten inside!  Can you protect the children and yourself from the fury of his knife?</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Haloween-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VSS, Inc.</developer>
+		<publisher>Wizard Video</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Iwantmom.bin</path>
+		<name>Iwantmom</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T051834</lastplayed>
+	</game>
+	<game>
+		<path>./James Bond 007.bin</path>
+		<name>JAMES BOND 007</name>
+		<desc>James Bond 007 is a 1983 side-scrolling video game developed and published by Parker Brothers for the Atari 2600, Atari 5200, Atari 8-bit computers, Commodore 64, ColecoVision and distributed in Japan by Tsukuda Original for the Sega SG-1000. It is the first video game to be based on the James Bond film series.
+
+Players control British spy James Bond in his multi-purpose vehicle that can travel both land and sea. Players can shoot lasers upward towards aerial opponents or bullets downwards at other enemies. They must also jump over obstacles and dodge enemy attacks.
+
+There are four missions, each based on a Bond movie. The missions are: Diamonds Are Forever, Moonraker, For Your Eyes Only, and The Spy Who Loved Me. Before each mission begins, the game displays its name, lives remaining, the vehicle, and a message from M stating, "Good luck, Mr. Bond." Each mission has a specific goal, with various checkpoints throughout.
+
+When a player's last life is lost, M bids James goodbye, and the final score is shown.
+
+At the end of the game, the player also received a double-0 rating based on the difficulty of play (novice or agent), and how well the player did. If played at the novice difficulty, the maximum rating was 005, at agent difficulty, the maximum rating was 007.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/James Bond 007-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Keystone.bin</path>
+		<name>Keystone Kapers</name>
+		<desc>The notorious thief Harry Hooligan is on the loose! You play the part of Officer Keystone Kelly, sent in to capture Harry. Harry is trapped in a four story mall, and is running as fast as he can to reach the exit at the top. Your job is to catch up to him and send him to prison. You will need to use either the escalators at the end of each floor, or the elevator in the middle to go from floor to floor. The escalators may be further away, but the elevator moves pretty slowly so you will need to decide which route will be faster in getting you closer to your goal. If Harry can make it to the top before you catch him, you will have to retry that level. Harry has no intention of letting you catch him easily, and is hurling everything he can find in an attempt to slow you down. Shopping carts, bouncing balls, biplanes, and more will all be flying past on the screen and will either slow you down or send you back to the beginning if you get hit. As the levels progress, Harry will run faster and faster, and more objects will be tossed your way to duck and jump over.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Keystone-image.jpg</image>
+		<releasedate>19830401T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Zellers</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Kingkong.bin</path>
+		<name>King Kong</name>
+		<desc>Rescue the lady from King Kong's clutches atop the Empire State Building. You must climb to the top of the building while avoiding (jumping) the bombs King Kong is throwing at you. The quicker you save her, the greater the bonus.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Kingkong-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19821001T000000</releasedate>
+		<developer>Tigervision</developer>
+		<publisher>Tigervision</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Kung_fu.bin</path>
+		<name>Kung-Fu Master</name>
+		<desc>You are a master of the martial arts. Quietly confident that your skills will allow you to overcome any challenge. Even the greatest challenge of all - THE WIZARDS TEMPLE! Remote and heavily guarded, the temple is a fortress never before defeated. You must avoid demons, dragons, snakes and killer bees while doing battle with the wizard's armed henchmen on each of the five floors of the temple. Failure is out of the question - the wizard holds the princess captive, and only you stand between her and an uncertain fate!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Kung_fu-image.jpg</image>
+		<rating>0</rating>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./LASRBLST.BIN</path>
+		<name>Laser Blast</name>
+		<desc>The object of Laser Blast is to destroy a series of land-based enemies. The player controls a fleet of flying saucers, operating one at a time. On the planet surface below are a group of three mobile laser bases, guarded by an invisible force field that prevents the player's saucer from getting too close to the surface. Both the player and the enemy bases are armed with laser blasters, which may fire a single continuous beam at a time. The player must destroy all three bases before they are able to target the saucer and fire their own laser blasts in defense. If the player's saucer is hit, it will lose altitude and crash to the ground; however, the player may direct this fall, potentially into one of the bases, destroying it as well. Each succeeding wave of enemy bases moves faster and targets the player's saucers more quickly, while the force field becomes stronger and decreases the amount of space in which the saucer can move.
+Players score points for each base destroyed, with points multiplying each wave up to a maximum of 90 points per base. Players earn extra flying saucers with each 1000 points scored and may keep a maximum of six extra saucers in reserve.
+Players who scored 100,000 points or more could submit photographic proof to Activision and be admitted to the Activision Federation of Laser Blasters.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/LASRBLST-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./LASRGATE.BIN</path>
+		<name>Laser Gates</name>
+		<desc>The thousand galaxies quake at the news: the Cryptic Computer, the galactic defense synthesizer which has maintained peace for the five centuries since the Wars on Zevon, has malfunctioned! Four Failsafe Detonators inside the Computer will now initiate universal self-destruct! The Governors of Enderby order the Dante Dart into action. Only it can spiral down through the nearly impenetrable defenses of the Computer in
+order to reach and destroy the Detonators!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/LASRGATE-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./LASRVOLY.BIN</path>
+		<name>Laser Volley</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/LASRVOLY-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer />
+		<publisher>Zellers</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./lochjaw.bin</path>
+		<name>LOCHJAW</name>
+		<desc>This game was later released as Shark Attack. The name was changed due to a lawsuit over the name’s similarity to the movie “Jaws”. There are some subtle differences between this and Shark Attack.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/lochjaw-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./LordOfTheRings.bin</path>
+		<name>LORD OF THE RINGS</name>
+		<desc>Screenshots	
+Lord of the Rings StoreThe Lord of the Rings: Journey to Rivendell has been the subject of speculation for many years by Atari collectors. Now one of the most sought-after Atari 2600 prototypes is finally available. What's the story, you ask?
+Way back in 1983 Parker Brothers featured this game in one of their catalogs. Video game and Tolkien fans alike were excited by this announcement, but the wait would be in vain. Lord of the Rings was never released, and Parker Brothers reportedly informed people that called and asked for the game that it was sold out in an attempt to cover up for the fact that it was never published.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/LordOfTheRings-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20160219T051543</lastplayed>
+	</game>
+	<game>
+		<path>./magicard.bin</path>
+		<name>magicard</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T051300</lastplayed>
+	</game>
+	<game>
+		<path>./MARIOBRO.BIN</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MARIOBRO-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19830706T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20160216T090323</lastplayed>
+	</game>
+	<game>
+		<path>./MEGAFRCE.BIN</path>
+		<name>Mega Force</name>
+		<desc>You are a member of MegaForce and have been sent to the city of Sardoun. Sardoun is under attack and you must defend it. You are armed with the Moto-Fighter, a sort of armed motorcycle with flight ability.
+
+When you are on the ground, your missiles fire down and forward, at an angle. When you are in the air, your missiles fire straight ahead.
+
+The object is to destroy enemy fighters, destroy or avoid ground-launched rockets, destroy fuel depots and destroy the enemy headquarters. Any enemy fighters that get past you will head to Sardoun and bomb a building. You will see a red flash at the top of the screen with the words "Defend" when Sardoun is in trouble.
+
+Every second you are playing, you use one gallon on fuel. If you run out of fuel, you lose a life. You can shoot fuel tanks to replenish. If you destroy all the tanks of that depot, a prize will appear that you can shoot (but may not want to). See "Prizes" for details. Each tank destroyed is worth eighty points and ten gallons of fuel.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MEGAFRCE-image.jpg</image>
+		<rating>0</rating>
+		<developer>Fox Video Games</developer>
+		<publisher>Fox Video Games</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./MIDNIGHT.BIN</path>
+		<name>Midnight Magic</name>
+		<desc>Midnight Magic utilized the Atari 2600 joystick for performing simulated pinball functions, such as activating the flippers and shooting the ball. Moving the joystick controller down pulls the pinball machine plunger back while pressing the joystick button shoots the ball into the playfield. The left and right flippers are activated by moving the joystick controller left or right. Hitting all five drop targets at the top of the table increases the bonus multiplier (2x, 3x, and so on). Extra balls can be earned when hitting the rollover targets at the top left and right corners of the table when the bonus multiplier is activated.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MIDNIGHT-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./MIN_GOLF.BIN</path>
+		<name>Miniature Golf</name>
+		<desc>Prepare yourself for a spirited game of Miniature Golf ... without ever leaving your house. Test your skills of perception and timing in this electronic version of the pastoral sport. Miniature Golf even has moving obstacles, just like the real thing. Play against a friend or try to beat your lowest stroke count on your own.
+
+There are nine holes to be played in Miniature Golf. Each time you hit the ball, one stroke is added to your score. You may take as many strokes as you need to hit the ball into the cup, but try to aim for par, which represents the number to strokes you are ideally supposed to take to complete the hole.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MIN_GOLF-image.jpg</image>
+		<rating>0</rating>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./MISSCOMM.BIN</path>
+		<name>Missile Command</name>
+		<desc>The game is played by moving a crosshair across the sky background  and launch a counter-missile from the appropriate battery. Counter-missiles explode upon reaching the crosshair, leaving a fireball that persists for several seconds and destroys any enemy missiles that enter it. There are three batteries, each with ten missiles; a missile battery becomes useless when all its missiles are fired, or if the battery is destroyed by enemy fire. The missiles of the central battery fly to their targets at much greater speed; only these missiles can effectively kill a smart bomb at a distance.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MISSCOMM-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19801008T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./MOGULMAN.BIN</path>
+		<name>Mogul Maniac</name>
+		<desc>Quite simply, the objective of Mogul Maniac is to get through the open and closed gates and down the mountain as quickly as possible without breaking anything on or around your body...</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MOGULMAN-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Amiga</developer>
+		<publisher>Amiga</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./MONTZREV.BIN</path>
+		<name>Montezuma's Revenge</name>
+		<desc>PANAMA JOE, That’s what they call him ‘round these parts; though no one knows his real name or where he comes from.  But one thing’s for sure,  PANAMA JOE’s a daredevil from the word “go!”  No risk’s too great if the reward’s large enough.  Winning. That’s what’s the most important to him.  And more times than not, that’s exactly what he does.  Because he’s tough, clever – resourceful.  And sometimes, downright pig-headed!  Though occasionally (ah-hum), he’s been known to get in over his head. Luckily, he’s got a knack for getting himself out of hot water as quickly as he gets into it! Let’s hope MONTEZUMA’S REVENGE is one of those times.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MONTZREV-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./MOONPTRL.BIN</path>
+		<name>Moon Patrol</name>
+		<desc>The moon is under attack from a horde of aliens, and you must stop them in your armed buggy. Drive along the surface shooting the aliens and avoiding their bullets. The surface is not flat, there are craters and rocks to avoid contact with, and landmines on the surface. Flying saucers create new craters when they crash. The 25 restart points are letter-coded.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MOONPTRL-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./moonswep.bin</path>
+		<name>Moonsweeper</name>
+		<desc>In Moonsweeper your goal is to rescue miners from the moons in Star Quadrant Jupiter. You begin your mission in space where you must avoid deadly aurora flares, photon torches and space bullets from the sun in this quadrant. From time to time you will see a moon pass by, and by flying near it you can descend to the surface. As you sweep along the surface, you will see stranded miners which need to be rescued by flying over them. Also on the moons surface are various obstacles which must be avoided or destroyed, such as towers and lunar satellites as well as alien surface destroyers. Should you survive and rescue six miners (the maximum your ship can carry), then you may take off from the surface by using the accelerator rings. There are several different types of moons found in this quadrant, each with a different level of difficulty. To help out, your ship is equipped with photon torpedoes and shields (though you will lose points while using the shield).</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/moonswep-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./MTNKING.BIN</path>
+		<name>Mountain King</name>
+		<desc>Deep inside a long-lost diamond mine is the secret Temple Chamber of a forgotten civilization.  There, a priceless Golden Crown sits high on a pedestal, vulnerable to plundering explorers seeking to control its power.  but this treasure is jealously guarded by the denizens of the mountain, and whoever has the daring and courage to challenge them, seize the Crown, and escape to the mountaintop with it will become MOUNTAIN KING!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MTNKING-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>VSS, Inc.</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./MOUSETRP.BIN</path>
+		<name>Mouse Trap</name>
+		<desc>It's dinnertime, and you're simply starving.  What you would do for a nice hunk of cheese!  A slice of old-fashioned Swiss would be nice, or, even better, a morsel of Camembert.  Mmmmm.
+
+Dreaming of cheese won't get you anywhere.  You're going to have to earn your lunch.  As a hungry but clever mouse, you'll have to chomp your way through a maze of corridors and doors, while avoiding starving cats who want nothing better than to eat you.  But those feline fanatics aren't as crafty as you are.  You can outrun them.  You can confuse them by opening and shutting trapdoors.  And, with a stash of bones in reserve, you can fool these furry menaces by turning into a cat-biting dog!
+
+And the race is on!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/MOUSETRP-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NAMEGAME.BIN</path>
+		<name>Name This Game</name>
+		<desc>You have discovered a long-sought-after buried treasure, and just when you thought you have discovered a long-sought-after troubles were over, things get really tough! There's a persistent shark who thinks that the treasure belongs to him, and he is after you! As if that were not enough to contend with, there's a big old octopus sitting right above your trove who keeps reaching down to check things out.
+
+There you are, shooting at the shark, fighting off the octopus tentacles, and you realize your oxygen supply is running low. Your partner, in the boat, keeps dropping you a line, and you better run over and fill up.
+
+It is not going to be easy to hold on to your treasure now that you've found it, but we're sure you are not going to give it up without a fight.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NAMEGAME-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>US Games</developer>
+		<publisher>US Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NIGHTDRV.BIN</path>
+		<name>Night Driver</name>
+		<desc>Night Driver is an action racing game which takes place at night! Your goal is to score as many points as possible by racing through one of four different tracks. Points are scored by passing checkpoints located throughout the track. If your car crashes into the side of the road, oncoming cars, or any other obstacles, you will lose all of your speed and a lot of time! The game ends when the 90 second time limit is up. The four tracks you can choose from are beginner, pro, expert, and random (this track is different every time and can not be memorized like the other three). Several game options are included which allows you to select whether or not other cars will honk before entering the screen, and choose between a 90 second or infinite amount of time for a game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NIGHTDRV-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players />
+	</game>
+	<game>
+		<path>./NightStalker_Telegames.BIN</path>
+		<name>Night Stalker</name>
+		<desc>Robots, bats, and spiders chase you around a maze in Night Stalker, which boasts similar gameplay, if some what slower, to the arcade smash Berzerk. Players must pick up a gun that is randomly placed in the maze. The gun provides the player with a certain number of shots. Once depleted, the gun is again placed in a random part of the maze.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NightStalker_Telegames-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Telegames USA</developer>
+		<publisher>Telegames USA</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./NIGHTSTK.BIN</path>
+		<name>Night Stalker</name>
+		<desc>Robots, bats, and spiders chase you around a maze in Night Stalker, which boasts similar gameplay, if some what slower, to the arcade smash Berzerk. Players must pick up a gun that is randomly placed in the maze. The gun provides the player with a certain number of shots. Once depleted, the gun is again placed in a random part of the maze.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NIGHTSTK-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Telegames USA</developer>
+		<publisher>Telegames USA</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./NOESCAPE.BIN</path>
+		<name>No Escape!</name>
+		<desc>Jason has taken the Golden Fleece from the gods! They are naturally upset and have imprisoned Jason in the Temple of Aphrodite with deadly Furies running overhead. You control Jason and your goal is to eliminate all of the Furies to move on to the next level. The Furies can be destroyed if they are hit with a magical brick from the roof of the temple. You are armed with an unlimited supply of stones, throwing a stone at the roof will cause a brick to fall (be careful, you'll lose a life if you hit yourself with a falling brick instead of the Furies). When a Fury is hit by a brick it is destroyed, but if you accidentally hit a Fury with a stone then it will multiply! The Furies will also be firing at you, and if you'll lose a life if hit. The game ends when you have no more lives left in reserve. Several difficulty levels are available.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/NOESCAPE-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ofthwall.bin</path>
+		<name>Off The Wall</name>
+		<desc>Off the Wall is a video game developed for the Atari 2600 video game console in 1989. It is essentially a clone of Breakout with a Chinese theme. It was developed by Axlon, a game development studio owned by Atari founder Nolan Bushnell.
+
+Players take control of the hero Kung Fu Lu, and the objective is smash through an evil wall to kill a dragon that has been tormenting villagers. In the game, Lu receives several power-ups to achieve his goal, and he must overcome a bat that stands in his way.
+
+Atari later released another Breakout clone into video arcades, also called Off the Wall.
+
+Off the Wall was made available on Microsoft's Game Room service for its Xbox 360 console and for Windows-based PCs on December 1, 2010.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Ofthwall-image.jpg</image>
+		<rating>0</rating>
+		<developer>Axlon</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Pac Kong [a].bin</path>
+		<name>Pac Kong</name>
+		<desc>Pac-Kong plays very similar to Donkey Kong. The player controls an "adventurer" (called Kong in some versions of the game) and has to reach the treasures the evil octopus hid away.
+
+Each level consists of a series of platforms that are interconnected by ladders. The only action the player can take besides moving around is pressing fire to make the hero jump. This is necessary to get across the gaps between some of the platforms. At the same time, the player has to avoid the smaller octopi as well as clouds of poison gas which move around the screen randomly. Once the player reaches one of the treasure chests at the top of the screen they won the level and a new round starts.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pac Kong [a]-image.jpg</image>
+		<developer />
+		<publisher>Quelle</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Pele_tw.bin</path>
+		<name>Pelé's Soccer</name>
+		<desc>Pelé's Soccer is an Atari 2600 game based on the famous football (soccer) player Pelé, and published in 1981.
+
+It features basic graphics, ball handing and goal keeping techniques using the Atari joystick. Each team has one forward, two defensemen, and a goaltender on the field at all times. The player's goaltender is always controlled by the computer unless he saves a shot. Each game consists of two halves of various time lengths (depending on the game settings being used). All the forwards and backs run in their proper formation.
+There are 54 different game variations (27 single-player and 27 multiplayer) that allow for different speeds, game lengths, and goal sizes.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pele_tw-image.jpg</image>
+		<rating>0</rating>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pele.bin</path>
+		<name>Pelé's Soccer</name>
+		<desc>Pelé's Soccer is an Atari 2600 game based on the famous football (soccer) player Pelé, and published in 1981.
+
+It features basic graphics, ball handing and goal keeping techniques using the Atari joystick. Each team has one forward, two defensemen, and a goaltender on the field at all times. The player's goaltender is always controlled by the computer unless he saves a shot. Each game consists of two halves of various time lengths (depending on the game settings being used). All the forwards and backs run in their proper formation.
+There are 54 different game variations (27 single-player and 27 multiplayer) that allow for different speeds, game lengths, and goal sizes.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pele-image.jpg</image>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Peterose.bin</path>
+		<name>Pete Rose Baseball</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Peterose-image.jpg</image>
+		<rating>0</rating>
+		<developer>Absolute Entertainment</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./phantompanzer.bin</path>
+		<name>Phantom Panzer</name>
+		<desc>In Phantom-Panzer, the player takes control of an assault vehicle in order to defend their "energy base" at the bottom of the screen from the attacking phantom tanks.
+
+The game consists of three phases: the first phase takes place in a city and looks like a maze. It offers relative protection with the building walls. The second phase has the enemy tanks crossing two bridges over a river, but there's practically no cover. In the third and final phase, it's an all-out battle with the phantom tanks aggressively charging in on the player's base and no obstacles to stop them.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/phantompanzer-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher>Quelle</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Piececke.bin</path>
+		<name>Piece O'Cake</name>
+		<desc>Piece Of Cake?--no way!!  So you thought your first day on the job was going to be easy?  Well, you not only have to learn the fine art of baking cakes, but you also have to master it in a big hurry.  This is a production operation, and business is booming!  It's actually a very simple job--at first.  You simply take a freshly baked cake from the oven and drop it on a platter which is moving on a conveyor belt.  Top that with a cherry, and you will be rewarded for your artistic endeavors.  You must stack them correctly however, or--splat!!  As your skill progresses, so does the conveyor speed, so keep cool, and try not to earn the dubious title of "butterfingers."  Being a top notch bakery chef requires adeptness and a calm temperament, so if you can't stand the heat, get out of the kitchen!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Piececke-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>US Games</developer>
+		<publisher>US Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Pitfall2.bin</path>
+		<name>Pitfall II Lost Caverns</name>
+		<desc>You control Pitfall Harry as he makes his way through an underground Peruvian cave in search of the valuable Raj diamond, as well as his lost niece and cat. Once all three have been found, the game is over. The gameplay is fundamentally the same as Pitfall!, but with a few new twists. The environments are no longer limited to a horizontal plane, so navigating through the complex maze of corridors becomes a matter of puzzle solving and timing. Harry has also gained the abilities to swim and float across chasms using a balloon. The scorpions make a return appearance, but there are many new creatures for Harry to avoid, such as frogs, bats, electric eels, and condors.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pitfall2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830916T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Polepsn.bin</path>
+		<name>Pole Position</name>
+		<desc>In this game, the player controls a Formula One race car. The player completes a time trial lap within a certain amount of time to qualify for an F1 race at the Fuji Racetrack. After qualifying, the player races against other cars in a championship race.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Polepsn-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Pressure.bin</path>
+		<name>Pressure Cooker</name>
+		<desc>Business is booming at "The Grille". Hamburger orders are just pouring in. But back in the Assembly Room, the Food Dispenser is pouring out condiments everywhere. Help Short-Order Sam fill each order with the proper combination of tomatoes, onions, lettuce and cheese. And don't forget the bun! Then, rush the completed orders to the Wrapping Room fast. Alright cooks, grab your spatulas!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pressure-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Qbert_pb.bin</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Qbert_pb-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rabbittr.bin</path>
+		<name>Rabbit Transit</name>
+		<desc>You are a rabbit who is just trying to get to where you can get a mate and make like a mathematician by multiplying. First you must get through the meadow and across the ledges without losing life and limb.
+
+You start in a screen called The Mysterious Meadow. You must hop from the top to the river, landing on the turtle while avoiding snakes and choppers that will lose you a life and butterflies that will send you back to start. Do not dally as you are timed and if time runs out, you lose a life. Once you get to the turtle, he will take you to The Land of Ledges. Here you must hop from ledge to ledge and change their color, ala Q*Bert. Beware of the man at the top of the screen, as he will drop stones that will lose you a life. In later levels, he will change some ledges back to their original color, forcing you to retrace your steps. You are still timed so don't delay. After you finish The Land of Ledges, it is off to The Bunny Bushes. This is just a cinematic of you finding a mate and family. You can skip this if you press fire. Then the game starts back at the beginning, but more difficult this time!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Rabbittr-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Starpath Corporation</developer>
+		<publisher>Starpath Corporation</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Racquetb.bin</path>
+		<name>Racquetball</name>
+		<desc>You are a racquetball player, and you have accepted the challenge of a formidable opponent. Both combatants enter the arena through the opening in the wall, and the frenzied game begins with the crack of the racquet against the first ball. The pace is fast and furious as the ball recoils from the backboard at ninety miles per hour. Are you fast enough to react in time to return the ball? Can you endure the fast pace and vanquish the opponent? If you are willing to try, it will leave you as breathless as a real game on a real court. WARNING: Don't let your opponent ace you...</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Racquetb-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Apollo</developer>
+		<publisher>Apollo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Radarlok.bin</path>
+		<name>Radar Lock</name>
+		<desc>You're locked in fight-to-the-death air combat with the enemy!  You may be outnumbered -- somehow you've been separated from your buddies -- but this is far from your first mission.  You've been flying your trusty little delta-wing fighter for more months than you care to remember.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Radarlok-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Revngtom.bin</path>
+		<name>Revenge of the Beefsteak Tomatoes</name>
+		<desc>Your objective is to trap the Tomato Plants at the bottom of the screen by building three walls above them.  At the same time you must avoid or shoot down all flying Tomatoes, dodge Tomato Bombs and stop the Brick-Eaters.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Revngtom-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Riddle.bin</path>
+		<name>Riddle of the Sphinx</name>
+		<desc>These are dark times.  Death's long shadow rests across the Valley of the Kings.  Anubis, jackal-headed god of the dead, has cast his curse over all of Pharaoh's kingdom.  A plague of scorpions and hordes of thieves lie thick upon the land.  O hear the thin whine of despair! 
+
+Sing of Pharaoh's Son, all hail the Prince of Egypt! Deliver us from this curse! Brave the dangers of the desert. Seek the answer to the Riddle of the Sphinx. Pay Anubis' ransom with your treasures, O cunning Prince of Wiles. Reach the Temple of Ra, source of light and life. 
+
+Pharaoh's heir--be wise, be wily--and beware!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Riddle-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Riverp.bin</path>
+		<name>River Patrol</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Riverp-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Riveraid.bin</path>
+		<name>River Raid</name>
+		<desc>The player controls an airplane in a top-down view over a river and gets points for shooting down enemy planes, helicopters, and ships.
+By flying over fuel-stations, the plane's tank can be refilled. The player can shift side to side and change the speed of the plane. Sections of the river are marked by bridges.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Riveraid-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rivraid2.bin</path>
+		<name>River Raid II</name>
+		<desc>River Raid II continues the fast-paced shooting action of the 1982 original while adding new features such as varying altitude (the original only featured left and right movement), flying over oceans and firing torpedoes. Now instead of shooting enemy helicopters and planes, you'll also get to bomb destroyers, tanks, buildings, landing strips and water towers in your mission to destroy the enemy bridge.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Rivraid2-image.jpg</image>
+		<rating>0</rating>
+		<developer>Imagineering</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Roadrunr.bin</path>
+		<name>Road Runner</name>
+		<desc>Road Runner is a variant of the platformer genre, based on the Wile E. Coyote and Road Runner shorts. It was developed and released by Atari Games in 1985.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Roadrunr-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./SEAQUEST.BIN</path>
+		<name>Seaquest</name>
+		<desc>Your divers have retrieved the buried treasure, and now you must come to their rescue.  The object of Seaquest is to retrieve as many treasure-divers as you can, while dodging and blasting enemy subs and killer sharks.  All before your oxygen runs out!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SEAQUEST-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SHOOTIN.BIN</path>
+		<name>Shootin' Gallery</name>
+		<desc>Similar to the game Carnival, you must shoot targets and guard your ammunition supply.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SHOOTIN-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./SKIING.BIN</path>
+		<name>Skiing</name>
+		<desc>In Skiing, your goal is to ski to the bottom of the mountain in the shortest time possible. The mountain is treacherous with plenty of trees and moguls in the way! There are two different modes of gameplay. In slalom mode, there are a series of gates you need to ski through; missing any will result in a penalty to your time. In downhill mode you just need to ski to the bottom as fast as possible. Each mode includes five different skill levels which affect the length of the course (and the number of gates in slalom mode.)</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SKIING-image.jpg</image>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Sky Diver (1978).bin</path>
+		<name>Sky Diver</name>
+		<desc>Sky Diver is an arcade video game designed by Owen Rubin, and released by Atari, Inc. in 1978. It was ported to Atari 2600 in the same year by Jim Huether.[1] Its interface is a simple third-person view of a parachuting drop zone. Sky Diver is a two-player game, although one player can play.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Sky Diver (1978)-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Slot Racers - Maze (1978).bin</path>
+		<name>Slot Racers</name>
+		<desc>Designed for two players only, Slot Racers puts you behind the wheel of a missile-shooting "Super Chasemobile" car. The object of the game is to drive around a maze of your choice, shooting at your opponent's car and dodging its missiles. You can turn your car left and right, accelerate and slam on the brakes. However, you can't drive in reverse. The first driver to score 25 hits on the other car wins the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Slot Racers - Maze (1978)-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Warren Robinett</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Slot Machine.bin</path>
+		<name>Slot Racers</name>
+		<desc>Designed for two players only, Slot Racers puts you behind the wheel of a missile-shooting "Super Chasemobile" car. The object of the game is to drive around a maze of your choice, shooting at your opponent's car and dodging its missiles. You can turn your car left and right, accelerate and slam on the brakes. However, you can't drive in reverse. The first driver to score 25 hits on the other car wins the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Slot Machine-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Warren Robinett</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SNOOPY.BIN</path>
+		<name>Snoopy and the Red Baron</name>
+		<desc>The dastardly Red Baron has stolen important food supplies from the allies during the war.  Hamburgers, ice cream cones, popcorn and other tasty treats have been taken by this evil aviator and sharpshooter. Your task is to help Snoopy shoot down the Red Baron and recover the stolen supplies.
+
+You begin your mission with four doghouses.  It takes eight direct hits to bring down the Red Baron, and for the Red baron to bring down Snoopy's doghouse.  If the Red Baron downs a doghouse, all accumulated treats will be lost.  Press the controller button to fire Snoopy's machine gun.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SNOOPY-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SOLARIS.BIN</path>
+		<name>Solaris</name>
+		<desc>The Zylons are back, and are attempting another takeover of the galaxy! Your goal is to destroy all of the Zylon fighters you encounter, rescue cadets that are trapped on Zylon planets, and to find the planet Solaris to protect it from the Zylons. Your spaceship is equipped with a galactic map which can be used to warp to different sectors of the galaxy. The map shows the location of Zylon squadrons, Zylon planets, federation starbases, wormholes, clusters of stars, and Solaris when you find it. By warping to the correct sector, you can battle the numerous types of Zylon fighters to keep them from attacking federation bases and planets. Your spaceship has a limited amount of fuel; when you see the fuel gage get too low, you will need to warp to a federation starbase to refuel (make sure you leave enough fuel to warp). When flying over a Zylon controlled planet, you will see your cadets on the surface. If you rescue all of the cadets as you fly past, you will receive bonus points and an extra spaceship. The Zylon's have many different types of fighters which you will encounter, as well as some narrow corridors with blockades which you will need to clear in order to reach new locations in the galaxy.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SOLARIS-image.jpg</image>
+		<releasedate>19861201T000000</releasedate>
+		<developer>Atari Corporation</developer>
+		<publisher>Atari Corporation</publisher>
+		<genre>Flight Simulator</genre>
+		<players />
+	</game>
+	<game>
+		<path>./SORCERER.BIN</path>
+		<name>Sorcerer</name>
+		<desc>Many centuries ago, the Earth was ruled by Sorcerers and Wizards. They possessed mystical powers capable of both good and evil. The most respected influences in the land were from the good Sorcerers. This fact continually disturbed the evil Wizards, and they eventually decided to use their power to conquer the countryside and enslave its people. They devised a plan to systematically eliminate the good Sorcerers by sending wave after wave of diabolical creatures to ravage the world.
+
+As the bravest of the good Sorcerers you have been asked to destroy these forces and save the planet. As a reward for your bravery: whenever you overcome or destroy a creature, you will receive a treasure.
+
+Knowing your bravery the Wizards have done everything within their power to keep you from succeeding. They don't believe you will survive their first three waves of evil, but just in case you do they have several surprises waiting, Only you can discover through bravery and talent how evil they can become.
+
+To give you more power over the Forces of Evil the good Sorcerers have provided a magical Flying Platform. When you start on your journey you should first catch this elusive platform. You can continue without it, but only the foolish would dare to do so. Once on the Flying Platform you can go anywhere on the screen to avoid or destroy the enemy. The good Sorcerers have also given you four lives to use against the Forces of Evil.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SORCERER-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mythicon</developer>
+		<publisher>Mythicon</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SPITFIRE.BIN</path>
+		<name>Spitfire Attack</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SPITFIRE-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Milton Bradley</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./SSSNAKE.BIN</path>
+		<name>Sssnake</name>
+		<desc>You are a daring big game hunter on an expedition into the heart of the Amazon's legendary lost world. But you find that the game being hunted is you -- by Pterodactyls, Trachodons, and other prehistoric creatures. Luckily you find refuge in an ancient abandoned fortress, where you're protected from the jungle outside. Or are you...</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SSSNAKE-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data Age</developer>
+		<publisher>Data Age</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./STAMPEDE.BIN</path>
+		<name>Stampede</name>
+		<desc>It's a stampede!! Your job is to round up as many of the calves as you can. The screen scrolls to the right as you chase the calves; if more than three calves get past you, the game is over. The calves all run at different speeds, and when you rope one you earn points based on how fast it was running. As the game progresses, more and more calves will be on the screen at one time, and other obstacles will begin appearing to trip your horse and slow you down.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/STAMPEDE-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./STARGATE.BIN</path>
+		<name>STARGATE</name>
+		<desc>Stargate is an arcade game released in 1981 by Williams Electronics. Created by Eugene Jarvis, it is a sequel to the 1980 game Defender, and was the first of only three productions from Vid Kidz, an independent development house formed by Jarvis and Larry DeMar. This video game has no connection to the subsequent Stargate franchise that began 13 years later.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/STARGATE-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Street Racer - Speedway II (1978).bin</path>
+		<name>Street Racer</name>
+		<desc>Street Racer is an action racing game for one to four players played from an overhead view. The screen is split into two lanes; in one or two player games, each player has a lane. In three and four player games, players must share the lanes. Each game has a two minute and sixteen second time limit, and your goal is to earn as many points as possible by the end of this time. In addition to the basic racing version, several other game variations are included as well.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Street Racer - Speedway II (1978)-image.jpg</image>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Racing</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Super Baseball.bin</path>
+		<name>Super Baseball</name>
+		<desc>This game is an altered version of the Atari 2600 version of RealSports Baseball. The game controls are identical. The alterations are that the graphics and colors were changed. Also, the options were reduced to one or two player and whether, in one player, the human player is up first at bat or not.
+
+Otherwise, everything else is the same. You still can throw fastballs, curve balls, sinkers, etc. and you can still bunt, hit fly balls, etc. Scoring remains the same with a tie after nine innings going into extra innings. The difficulty switches do not have any use.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Super Baseball-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Breakout (1978).bin</path>
+		<name>Super Breakout</name>
+		<desc>In Super Breakout, there are three different and more advanced game types from which the player can choose:
+
+Double gives the player control of two bats at the same time—one placed above the other—and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
+Cavity retains the single bat and ball of Breakout, but two other balls are enclosed on the other side of the wall, which the player must free before they, too, can be used to destroy additional bricks. Points are increased for this, but triple points are available if the player can keep all three balls in play.
+Progressive also has the single bat and ball, but as the ball hits the paddle, the entire wall gradually advances downwards step by step, gaining in speed the longer the ball lasts in play.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Super Breakout (1978)-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Football.bin</path>
+		<name>Super Football</name>
+		<desc>You've got a bird's eye view of the field. Your team falls back into a huddle and you call the play to pass or run the ball and out-maneuver the opposing team.
+Score touch downs, extra points and field goals.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Super Football-image.jpg</image>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Surround (1978).bin</path>
+		<name>Surround</name>
+		<desc>Welcome to the exciting and competitive world of SURROUND. Your basic objective is to surround your opponent, causing him to run out of space in which to move, and at the same time not running into anything yourself. You can set up a blockade, force him into a corner or wander off by yourself and hope that he runs into something on his own.
+
+Along with the basic SURROUND game, we've added four game features to make things more interesting. Be sure to read Section 4 to learn more about these features.
+
+Then there's VIDEO GRAFFITI. It's just for fun without the competitive edge thrown in. VIDEO GRAFFITI actually allows you to draw on the screen.
+
+Surround was one of the nine Atari 2600 launch titles released in September 1977.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Surround (1978)-image.jpg</image>
+		<releasedate>19770901T000000</releasedate>
+		<developer>Alan Miller</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SwordFight.BIN</path>
+		<name>Swordfight</name>
+		<desc>This game was finished at MNetwork in the 1980's, but never released. In 2000, Intellivision Productions released this game complete with a simple box and manual. It is still available from their web site. Swordfight requires two players, which is possibly why the game was not released in the first place.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/SwordFight-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Track.bin</path>
+		<name>Track &amp; Field</name>
+		<desc>Track &amp; Field, known in Japan as Hyper Olympic (ハイパーオリンピック?), is a 1983 Olympic-themed arcade game developed and published by Konami.
+
+The arcade version was released in 1983. The simple gameplay, based on quick repeating button presses, set the basics for sequels and similar games in the genre for the next decades. There were several home versions of the original; the ZX Spectrum and Amstrad CPC versions were only released as part of the Game, Set and Match II compilation in 1988, and are poorly regarded by fans.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Track-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Venture2.bin</path>
+		<name>Venture II</name>
+		<desc>Venture II was created by Tim Snider as a sequel to the classic game Venture. Only 24 copies of Venture II were produced. The first four carts were part of a pre-production run so Tim could get the manufacturing process fine tuned. Those first four are marked with Greek letters on the label. Tim then created 20 numbered copies of Venture II which he made available privately at the 2001 Classic Gaming Expo. One copy of Venture II sold at the CGE2K1 auction and went for over $200. Tim created perhaps the most extravagant packaging seen for a self-published title at the time--the game was delivered in a hand-crafted, miniature treasure chest, which opened to reveal the cartridge (with numbered label) and a manual, surrounded by elegant, gold leaf paper.
+
+If you'd like to purchase a copy of Venture II (sans the fancy treasure chest packaging), you can do so in the AtariAge Store. Included is a beautifully illustrated twelve page manual by Dale Crum.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Venture2-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Vidcheck.bin</path>
+		<name>Video Checkers</name>
+		<desc>In this classic game of checkers you can play with your friend or many different levels of computer AI. Mastering all of them will take skill and strategy, as well as a bit of luck. Video Checkers follows the standard checkers rules with the following rules: if there is a jump available, you must take it and if you get to king's row and are promoted, you cannot move again that turn but must wait for your next turn.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Vidchess.bin</path>
+		<name>Video Chess</name>
+		<desc>The ancient game of strategy can now be played on your television screen with the release of Atari's Video Chess. The goal is still the same: capture your opponent's king while protecting your own. Video Chess is a one-player game that offers eight different skill levels, including a special children's level that is appropriate for those still learning how to play.
+
+Each player begins with sixteen pieces on opposite sides of a checkered game board: eight pawns, two bishops, two knights, two rooks, one queen and one king. One side plays with black, the other with white. Depending on the rank (with the pawn being the lowest and king highest), each piece can move across the board a certain number of spaces or in a specific direction.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Vidchess-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Vid_olym.bin</path>
+		<name>Video Olympics</name>
+		<desc>Video Olympics is an action game containing numerous variations of the game Pong. Two players (or one player against the computer) control paddles on the screen and attempt to prevent a bouncing ball from getting past them. In the most basic game variations, each player has a single paddle and there are no obstacles on the screen. The other game variations add paddles and obstacles, and some are loosely inspired by various sports and change the playfield around, but the goal remains the same: hit the ball past your opponents paddle into the goal to earn points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Vid_olym-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./WIZARD.BIN</path>
+		<name>Wizard of Wor</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+
+The player controls a warrior who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/WIZARD-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Lancelot.bin</path>
+		<name>Xonox - Robin Hood/Sir Lancelot</name>
+		<desc>As one of the Xonox "Double Ender" cartridges, this features Robin Hood and Sir Lancelot. Each of the two games was released separately, though it's generally more common to find them in this form. This particular double-ender is the most common to feature either of these games.
+The Double-Ender is two games in one - each end of the cartridge has a different game. These cartridges are about 2.5 inches longer than a standard cartridge, and the case is wider in the middle. There is one long label that is typically blue, with game art for both sides split diagonally down the middle. Titles are printed in red text against a yellow banner. All the titles found on the Double-Enders can also be found in standard single-ended cases.
+Xonox, based in Minnesota, started developing Atari cartridges during the height of the 2600's popularity. They contributed many high quality games available for the early platforms. Xonox capitalized on the novelty and perceived value of "double-ender" cartridges. These could be inserted into the console on one of the two ends, each end offering a different game. Different double-ender configurations could package the same game with different counterparts. Xonox was not the first company to try this; Playaround did it earlier with their adult-themed titles. Xonox eventually abandoned this idea and began releasing single versions of some of the titles previously offered as double-enders as well as a few new titles.
+Xonox was one of many small video game companies to fold during the Video Game Crash of 1983.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Lancelot-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Robin Hood.bin</path>
+		<name>Xonox - Robin Hood/Sir Lancelot</name>
+		<desc>As one of the Xonox "Double Ender" cartridges, this features Robin Hood and Sir Lancelot. Each of the two games was released separately, though it's generally more common to find them in this form. This particular double-ender is the most common to feature either of these games.
+The Double-Ender is two games in one - each end of the cartridge has a different game. These cartridges are about 2.5 inches longer than a standard cartridge, and the case is wider in the middle. There is one long label that is typically blue, with game art for both sides split diagonally down the middle. Titles are printed in red text against a yellow banner. All the titles found on the Double-Enders can also be found in standard single-ended cases.
+Xonox, based in Minnesota, started developing Atari cartridges during the height of the 2600's popularity. They contributed many high quality games available for the early platforms. Xonox capitalized on the novelty and perceived value of "double-ender" cartridges. These could be inserted into the console on one of the two ends, each end offering a different game. Different double-ender configurations could package the same game with different counterparts. Xonox was not the first company to try this; Playaround did it earlier with their adult-themed titles. Xonox eventually abandoned this idea and began releasing single versions of some of the titles previously offered as double-enders as well as a few new titles.
+Xonox was one of many small video game companies to fold during the Video Game Crash of 1983.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Robin Hood-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Robnhood.bin</path>
+		<name>Xonox - Robin Hood/Sir Lancelot</name>
+		<desc>As one of the Xonox "Double Ender" cartridges, this features Robin Hood and Sir Lancelot. Each of the two games was released separately, though it's generally more common to find them in this form. This particular double-ender is the most common to feature either of these games.
+The Double-Ender is two games in one - each end of the cartridge has a different game. These cartridges are about 2.5 inches longer than a standard cartridge, and the case is wider in the middle. There is one long label that is typically blue, with game art for both sides split diagonally down the middle. Titles are printed in red text against a yellow banner. All the titles found on the Double-Enders can also be found in standard single-ended cases.
+Xonox, based in Minnesota, started developing Atari cartridges during the height of the 2600's popularity. They contributed many high quality games available for the early platforms. Xonox capitalized on the novelty and perceived value of "double-ender" cartridges. These could be inserted into the console on one of the two ends, each end offering a different game. Different double-ender configurations could package the same game with different counterparts. Xonox was not the first company to try this; Playaround did it earlier with their adult-themed titles. Xonox eventually abandoned this idea and began releasing single versions of some of the titles previously offered as double-enders as well as a few new titles.
+Xonox was one of many small video game companies to fold during the Video Game Crash of 1983.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Robnhood-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yar_rev.bin</path>
+		<name>Yars' Revenge</name>
+		<desc>n Yars' Revenge, your goal is to destroy the Qotile laser-base which is located on the right side of the screen behind a shield. You control the fly-like Yar, which can destroy the shield piece by piece by either shooting it or running into it. Once the shield is down, you will need to use the Zorlon cannon to destroy the Qotile. The Zorlon cannon is located on the left side of the screen, and when fired can destroy the Qotile with a direct hit. The Qotile isn't completely unarmed against your attacks, however. Wandering around the screen is a destroyer missile, which will constantly be homing in on your Yar. This missile can not be destroyed, however you can temporarily hide from it in a shield which runs vertically in the center of the screen. The Yar will be unable to fire when hiding in the shield so you can't stay there indefinitely! The Qotiles second weapon is a swirl which it will randomly fire at you and should be dodged. When you finally destroy the Qotile you can move on to the next, faster round of gameplay. Several game variations are included which control the difficulty and speed of the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Yar_rev-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820503T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Berzerk.bin</path>
+		<name>Berzerk</name>
+		<desc>The player controls a green stick-figure, representing a "humanoid." Using a joystick (and a firing button to activate a laser-like weapon), the player navigates a simple maze filled with many robots, who fire lasers back at the player character. A player can be killed by being shot, by running into a robot or an exploding robot, coming into contact with the electrified walls of the maze itself, or by being touched by the player's nemesis, "Evil Otto."</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Berzerk-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19820802T000000</releasedate>
+		<developer>Stern</developer>
+		<publisher>Stern</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Eggcatch.bin</path>
+		<name>Big Bird's Egg Catch</name>
+		<desc>Two chickens are laying eggs. You'll know one's about to drop when a chicken stands up. As they drop down the chutes, Farmer Big Bird moves back and forth to catch them. Different chute patterns make the game more difficult. This kids game is based on the classic Sesame Street character. It is intended for use with the kids controller, which is an oversized keyboard controller into which you insert the included overlay for this game. If you don't have a kids controller, the keyboard controller works fine, but you'll have to figure out what the buttons do</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Eggcatch-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19831001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bnj.bin</path>
+		<name>Bnj</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T053235</lastplayed>
+	</game>
+	<game>
+		<path>./Boing.bin</path>
+		<name>Boing!</name>
+		<desc>A bouncing cute-pie of a hero who is controlled by joystick as he leaps with dizzying speed across parallel rows of panels. The object: hit each panel in sequence, changing their color and finishing them off, while avoiding the nasty, bouncing Bubble Eater, or the jumping Pin, which move like greased lightning across the field.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Boing-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>First Star Software</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Bowling.bin</path>
+		<name>Bowling</name>
+		<desc>Your objective is to roll as high a score as possible, whether you're playing a one-player or a two-player game.  There are ten "pins" to knock down.  You have two tries (or rolls) to knock down the pins each time you're up.  Each game consists of ten "frames" (or turns).
+
+If you succeed in knocking down all the pins on your first roll, it's called a "strike".  A strike is marked with an "x" on the TV screen.
+
+If you leave pins standing, but "pick them up" on your second try, it's called a "spare".  Spares are marked with a "/" on the screen.
+
+An "open frame" occurs when you fail to knock down all then pins in two rolls.  Open frames are indicated with a straight horizontal line (-) on the screen.
+
+The ultimate goal in BOWLING is to roll 12 consecutive strikes for a "perfect" score of 300.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Bowling-image.jpg</image>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Boxing.bin</path>
+		<name>Boxing</name>
+		<desc>Boxing shows a top-down view of two boxers, one white and one black. When close enough, a boxer can hit his opponent with a punch (executed by pressing the fire button on the Atari joystick). This causes his opponent to reel back slightly. Long punches score one point, while closer punches (power punches, from the manual) score two. There are no knockdowns or rounds. A match is completed either when one player lands 100 punches (a "knockout") or two minutes have elapsed (a "decision"). In the case of a decision, the player with the most landed punches is the winner. Ties are possible.
+While the gameplay is simple, there are subtleties, such as getting an opponent on the "ropes" and "juggling" him back and forth between alternate punches.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Boxing-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19800701T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Breakout.bin</path>
+		<name>Breakout</name>
+		<desc>In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Breakout-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Bridge.bin</path>
+		<name>Bridge</name>
+		<desc>You have in your possession the ultimate solitaire bridge game!  Bridge by ACTIVISION deals you hundreds of millions of hands at random, provides a computer partner who bids by rules, and even plays as your opponents after you've established a contract.  You can play the same hand over and over again until you're satisfied or keep dealing until you find a hand you want to play. Best of all, you'll never again be without a game with Bridge by ACTIVISION. Look inside to see how it's done.
+
+A NOTE TO BEGINNING BRIDGE PLAYERS:
+Bridge by ACTIVISION was designed for people who already know how to play the game. It won't teach you the basics - you'll want to read a good instructional book or take some classes for that.  But it will give you virtually unlimited opportunities to practice what you learn and sharpen your game - at your own pace.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Bridge-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Strategy</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Bugs.bin</path>
+		<name>Bugs</name>
+		<desc>You have been sent to investigate a life form that has been detected on a long-dead planet.  Passing through the deadly Cosmic Tunnel, you land on the barren planet's surface to find an underground world ruled by a race of intelligent Super-Bugs! 
+
+Countless numbers of these space age creepy-crawlies begin to emerge from massive subterranean colonies--along with the Phylax, genetically engineered Super-Drones that can penetrate any surface....</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Bugs-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data Age</developer>
+		<publisher>Data Age</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Cakewalk.bin</path>
+		<name>Cakewalk</name>
+		<desc>As frantic baker, your job is to catch the cakes and gingerbread men as they are delivered by conveyor belts. If you miss one, it will fall to the floor and the janitor will have to clean it up. But when the janitor cleans up too many, he'll get fed up and quit (game over). If you catch all of the cakes in a baking session, you'll get a coffee break. You must avoid the sharp utensils that accidentally get placed on the conveyors.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cakewalk-image.jpg</image>
+		<developer>CommaVid</developer>
+		<publisher>CommaVid</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Carnival.bin</path>
+		<name>Carnival</name>
+		<desc>In this adaptation of the original arcade game by Sega, try to prove your skill at hitting targets in a carnival shooting gallery. Shoot rabbits, ducks, and owls, but look out! Ducks can swoop down and eat your ammo Get extra ammo by shooting one of the "8"s. You'll have to hit all of the pipes spinning around then clear the board of animals before you can move on to the next level. The game ends when you're out of bullets.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Carnival-image.jpg</image>
+		<releasedate>19820401T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Casino.bin</path>
+		<name>Casino</name>
+		<desc>There are 3 card games available: Black Jack, Stud Poker and Poker Solitaire</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Casino-image.jpg</image>
+		<developer>Atari</developer>
+		<publisher>Sears</publisher>
+		<genre>Strategy</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./cattrax.bin</path>
+		<name>cattrax</name>
+		<playcount>1</playcount>
+		<lastplayed>20160219T053834</lastplayed>
+	</game>
+	<game>
+		<path>./Coconuts.bin</path>
+		<name>Coconuts</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Coconuts-image.jpg</image>
+		<developer>Telesys</developer>
+		<publisher>Telesys</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Combat.bin</path>
+		<name>Combat</name>
+		<desc>Combat is an early video game by Atari for the Atari 2600. It was released as one of the nine launch titles for the system in October 1977, and was included in the box with the system from its introduction until 1982. 
+
+Combat boasted having 27 games in one, which were all variations on the tank, biplane, and jet gameplay.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Combat-image.jpg</image>
+		<releasedate>19771014T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Commando.bin</path>
+		<name>Commando</name>
+		<desc>Super Joe is armed with a sub-machine gun (which has unlimited ammunition) as well as a limited supply of hand grenades. While Joe can fire his gun in any of the eight directions that he faces, his grenades can only be thrown vertically towards the top of the screen, irrespective of the direction Joe is facing. Unlike his SMG bullets, grenades can be thrown to clear obstacles, and explosions from well placed grenades can kill several enemies at once.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Commando-image.jpg</image>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Crossbow.bin</path>
+		<name>Crossbow</name>
+		<desc>This game is basically a target shooting game, with a twist. Armed with a crossbow you protect your "friends",who walk dumbly across the screen, from getting hit by the various things being hurled at them. Obstacles include animals, coconuts, volcanic fireballs, stalagtites, and a fire-breathing dragon. If all goes well, they will reach the dragon's treasure.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Crossbow-image.jpg</image>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Defender.bin</path>
+		<name>Defender II</name>
+		<desc>This sequel adds new enemy ships to the alien fleet such as firebombers, Yllabian Space Guppies (note that Yllabian is based on "Yllab", the word "Bally" spelled backwards, a friendly poke at Williams' then-competitor, Bally Midway), Dynamos and Space Hums. The Defender ship is now equipped with an Inviso cloaking device, which renders the ship invulnerable when activated, but has a limited charge. A Stargate will transport the ship to any humanoid in trouble. There are now two special stages, the Firebomber Showdown and the Yllabian Dogfight, that occur every fifth and tenth wave. As in the first game, if all the humans are captured the planet explodes and turns all the landers into mutants.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Defender-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Dolphin.bin</path>
+		<name>Dolphin</name>
+		<desc>Listen!  An endangered dolphin is calling you!  Only by learning the dolphin's sonic language can you guide her through schools of seahorses, battling a monstrous squid, to gain magic powers from and elusive seagull.  Hurry!  Lend an ear...
+
+You will guide your dolphin through openings in the seahorse schools by listening to sonic tones and catching waves. Pay attention to the following:
+
+THE SEAGULL:  
+Periodically, a seagull will fly overhead.  You'll know he's coming when the squid changes color.  Have your dolphin leap up, touch the seagull and then quickly turn and chase the squid.  This is the best way to gain points.  Also, the game resets at the next difficulty level putting distance between your dolphin and the squid.
+
+THE SLIP:  
+Another great way to outsmart the squid is by giving him "the slip".  If the squid is right on your tail, wait until he catches a good wave.  Then, reverse your dolphin's direction and swim under him immediately.  As long as the squid's good wave remains on the screen, he won't be able to reverse and catch you.
+
+SCORING:  
+Points are earned in a variety of ways.  Every time your dolphin touches a seagull, or a squid, you score points.  The number of points depends on the color of the squid. Scoring peaks at 800 per seagull and 8000 per squid.
+
+Also, you'll score 100 points each time your dolphin catches a good wave or each time you run the squid into a bad wave.  And, when your dolphin swims through the seahorses, you'll score 0 to 50 points, depending on your degree of accuracy in getting her through the opening.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Dolphin-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Dragster.bin</path>
+		<name>Dragster</name>
+		<desc>You have in your hand one of the most exciting video games ever designed. One word of caution: this game takes a little time to learn because it's so challenging. It's very tricky. So, please read these directions and give yourself some practice time. Then you can aim for the World Record.
+
+Game 1: Straight-ahead Dragster, one or two players.
+Game 2: Steerable Dragster, one or two players.
+
+Your Joystick Controller is both the clutch and gear shift for your Dragster; the red button is your gas pedal. Use left Joystick for the top car; right one for bottom car. Hold Joystick with button at the upper left.
+
+To shift gears, clutch by pushing Joystick to the left and shift by letting the Joystick spring back to the center.
+
+Your car starts each race in neutral (N). There are four gear positions--1, 2, 3, 4--and you must clutch and shift between each gear. You cannot downshift.
+
+When the countdown reaches 0, you can start. If you drop into gear too soon, before the end of the countdown, EARLY will appear on the screen and you have to wait for the next race. You can clutch during the countdown, but you cannot drop into 1st until  the countdown reaches 0.
+
+The object of Dragster is to beat your opponent across the screen, or to race against the clock for best time.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Dragster-image.jpg</image>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dukes.bin</path>
+		<name>Dukes of Hazzard</name>
+		<desc>Dukes of Hazzard is a driving game with an overhead perspective, based on the popular television series of the same name. Players take on the role of the Duke boys driving the infamous "General Lee," while trying to avoid the police and rescue their sister Daisy from Boss Hogg. While development of this game was reportedly complete, it was not commercially released (and thus it never recieved a packaging design, official instruction manual, etc).</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/dukes-image.jpg</image>
+		<releasedate>19831102T000000</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Entombed.bin</path>
+		<name>Entombed</name>
+		<desc>You and your team of archeologists have fallen into the "catacombs of the zombies." There's no time to look around; these guys are after you, and they mean business! Your only salvation is that you have discovered the secret to the "make-break." Grab them, and you can break through walls when you get stuck, or create a wall behind you - if you are being chased. The longer you survive, the faster you have to move. Explore alone, or two archeologists can work together or compete in a frenzied trek through the catacombs.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Entombed-image.jpg</image>
+		<releasedate>19930602T000000</releasedate>
+		<developer>Western Technologies</developer>
+		<publisher>US Games</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Espial.bin</path>
+		<name>Espial</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Espial-image.jpg</image>
+		<developer>Tigervision</developer>
+		<publisher>Tigervision</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Exocet.bin</path>
+		<name>Exocet</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Exocet-image.jpg</image>
+		<developer>Panda</developer>
+		<publisher>Panda</publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20160219T054547</lastplayed>
+	</game>
+	<game>
+		<path>./Fathom.bin</path>
+		<name>Fathom</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Fathom-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Football.bin</path>
+		<name>Football</name>
+		<desc>GAME 1: 
+After programming your play, use the Joystick to control your players.  The offensive player controls only the ball carrier and the flight of the pass or punt.  The defensive player controls his lineman or, by holding the red controller button down, the defensive
+back.
+
+The players will randomly follow the play as programmed when not controlled by your Joystick.
+
+GAME 2: 
+In this game, when your players are not controlled by the Joystick, they will follow the play exactly as programmed.  Use more strategy and try to outguess your opponent's plays.
+
+GAME 3: 
+Program in your offensive and defensive plays and watch the computer run them out.  Neither player can control the players movements, but the offense can pass or punt the ball by pushing the red controller button.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Football-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Freeway.bin</path>
+		<name>Freeway</name>
+		<desc>Freeway was one of the first titles released by Activision in their effort to publish independent games for the Atari 2600. One or two players control chickens who can be made to run across a ten lane highway filled with traffic in an effort to "get to the other side." Every time a chicken gets across a point is earned for that player. If hit by a car, a chicken is forced back either slightly, or pushed back to the bottom of the screen, depending on what difficulty the switch is set to. The winner of a two player game is the player who has scored the most points in the two minutes, sixteen seconds allotted.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Freeway-image.jpg</image>
+		<releasedate>19810715T000000</releasedate>
+		<developer>David Crane</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Frogger.bin</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Frogger-image.jpg</image>
+		<developer>Konami</developer>
+		<publisher>Sega</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Galaga.bin</path>
+		<name>Galaga</name>
+		<playcount>1</playcount>
+		<lastplayed>20160222T005458</lastplayed>
+	</game>
+	<game>
+		<path>./Galaxian.bin</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Galaxian-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Gauntlet.bin</path>
+		<name>Gauntlet</name>
+		<desc>Sir Robert Wittenbottom - one of the most fearless of men - needs your keen skill and daring to help him run the GAUNTLET and prove he is truly worthy to enter the elite Council of Warriors! A game that will continue to excite and challenge you with a different GAUNTLET every time you play.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gauntlet-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Answer Software</developer>
+		<publisher>Answer Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Glacier Patrol.bin</path>
+		<name>GLACIER PATROL</name>
+		<desc>Sunrise actually programmed this game, but never released it. It was then picked up by Telegames and repackaged; you can still purchase it from them brand new in the box.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Glacier Patrol-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Glib.bin</path>
+		<name>GLIB</name>
+		<desc>Glib Video Word Game is a one or two player action game with 25 variations, designed to be played on the Atari 2600 Video Computer System. In each of 5 games, there are 5 skill levels, varied time speeds, bonus points, and automatic "arcade" scoring. Letters pulse, parade, disappear, explode. You may be quick enough to catch them but the real winner knows how to play them!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Glib-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Golf.bin</path>
+		<name>Golf</name>
+		<desc>Golf features a nine hole, par 36 course which can be played by one or two players. The game is played from an overhead view of the course, which is complete with sand traps, water hazards, trees, and rough. The player doesn't have the ability to choose different clubs, so the distance the ball travels is controlled by how big of a backswing is taken. The direction is controlled by the location of the player in relation to the ball. When the player finally reaches the green, the view switches to a closeup of the green for putting. Two different skill levels are available which control the size of the cup and the amount of power lost in the rough or sand.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Golf-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gopher.bin</path>
+		<name>Gopher</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gopher-image.jpg</image>
+		<developer>US Games</developer>
+		<publisher>US Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gorf.bin</path>
+		<name>Gorf</name>
+		<desc>Gorf is an arcade game released in 1981 by Midway Mfg., whose name was advertised as an acronym for "Galactic Orbiting Robot Force". It is a multiple-mission fixed shooter with five distinct modes of play, essentially making it five games in one. It is well known for its use of synthesized speech, a new feature at the time.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gorf-image.jpg</image>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Gravitar.bin</path>
+		<name>Gravitar</name>
+		<desc>The evil being called Gravitar is out attempting to destroy the universe! With each galaxy he conquers he leaves behind extreme gravitational forces, a powerful, explosive reactor and deadly bunkers. Your job is to stop Gravitar by taking back the twelve solar systems located in four galaxies that are under his control! In each solar system there is a sun, an alien reactor base, and three to four planets. To free the solar system, you have two choices; either visit all of the planets and destroy all enemy bunkers, or activate the reactor at the core of the alien base and escape before it explodes. On each of the planets and the alien base, there will be strong gravitational forces to deal with; make sure you keep your ship in space, since a crash into the ragged landscape will be fatal! After a galaxy has been freed, you then automatically move on to the next galaxy which will be even more difficult to save. The game includes five different skill levels which vary in difficulty by supplying different amounts of ships to begin the game as well as different strengths of gravity.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gravitar-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Gremlins.bin</path>
+		<name>Gremlins</name>
+		<desc>The classic horror/comedy movie inspired this fun game. You take on the character Billy, who initially tries to keep the innocent Mogwai from eating after midnight and becoming gremlins. As the Mogwai fall from the top toward the hamburger, you must catch them. Any that get by eat and turn into pupas. When eight pupas have formed, they hatch one by one, unleashing the gremlins. The gremlins then march down toward you. You must shoot them before they reach and kill poor Billy. You have two flash cubes that you can use to scare them away if they get too close. Bright Light! Try to get them before they walk through water, as they'll multiply.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gremlins-image.jpg</image>
+		<releasedate>19841001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Guardian.bin</path>
+		<name>Guardian</name>
+		<desc>Save the three planets that are under attack by a spaceship. Shoot the bombs as they fall toward the planets. A second line of defense is a force field between your laser cannon and the planets, but it can only handle one hit at each spot. The game ends when all three planets are wasted. In two player games, the alien attacks two sets of planets simultaneously. Each player must protect their own.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Guardian-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Gyruss.bin</path>
+		<name>Gyruss</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Gyruss-image.jpg</image>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Hangman.bin</path>
+		<name>Hangman</name>
+		<desc>Games 1, 2, 3 and 4 are one-player games. You compete against the computer. You score one point for every Hangman Word you complete; the computer scores one point for each Hangman Word you can't complete.
+
+GAME 1:
+One player competes against the computer that uses words from a first through third grade vocabulary.
+
+GAME 2:
+One player competes against the computer that uses words from a first through sixth grade vocabulary.
+
+GAME 3:
+Playing with words from a first through ninth grade level, one player competes against the computer.
+
+GAME 4:
+Words from a first through high school vocabulary are used for competition between one player and the computer.
+
+
+Games 5, 6, 7 and 8 are two-player games against the computer. After you select the game vocabulary you want to use, you and your opponent take turns selecting alphabet letters to find the word generated by the computer. Both players together are allowed 11 incorrect selections. When you make a correct letter guess, you receive a consecutive turn. The first player to complete the Hangman Word scores one point and starts the next word. The first player to score five points wins the game.
+
+GAME 5:
+Two players compete to complete the Hangman Word from a first through third grade vocabulary.
+
+GAME 6:
+Two players test their word skill with Hangman Words from a first through sixth grade vocabulary.
+
+GAME 7:
+Words from a first through ninth grade vocabulary are used for competition between two players.
+
+GAME 8:
+Two players compete using words from a first through high school vocabulary.
+
+
+GAME 9:
+Now it's your turn to choose the Hangman Word. Instead of playing with a computer word, one player composes the Hangman Word with the Joystick Controller; the opposing player receives eleven guesses to complete the Hangman Word.
+
+To enter your own Hangman Word into the computer, cycle through the alphabet letters on the screen while your opponent avoids looking at the screen. The Hangman Word may be between one and six letters.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Hangman-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Alan Miller</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Indy_500.bin</path>
+		<name>Indy 500</name>
+		<desc>Indy 500 is a racing game played from a top down point of view. In the one player game, your goal is to complete as many laps as you can in 60 seconds. In the two player game, the first player to complete 25 laps wins! Included are several different race tracks, two difficulty levels, and additional game variations called ice race, tag, and crash 'n score. In ice race, the track is icy causing your car to slide often and making it difficulty to steer. In tag, one player is "it" and needs to tag the other player. For each second you race without being tagged, a point is earned. Lastly, in crash 'n score the goal is to crash into targets which appear on the race track. The first player to crash into the target earns a point, and then a new target will appear elsewhere on the track.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Indy_500-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Joust.bin</path>
+		<name>Joust</name>
+		<desc>Joust is a platforming game where the player controls a yellow knight riding a flying ostrich from a third-person perspective. The player navigates the protagonist around the game world, which consists of rock platforms floating above a flat island surrounded by lava.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Joust-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Kaboom.bin</path>
+		<name>Kaboom!</name>
+		<desc>The mad bomber is on the loose! As he races back and forth at the top of the screen, you need to catch the bombs he drops in buckets of water. One point is earned for each bomb caught, but miss one of the bombs, and Kaboom! As the levels progress, the mad bomber will move faster and faster and drop more and more bombs. You start the game with three buckets, and lose one each time a bomb is missed. The game ends when all of your water buckets are gone.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Kaboom-image.jpg</image>
+		<rating>0.1</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kangaroo.bin</path>
+		<name>Kangaroo</name>
+		<desc>Baby Roo has been kidnapped by monkeys, and it's up to Mama Roo to come to the rescue! Your kangaroo starts out at the bottom of the screen. You need to guide the kangaroo up the various ladders and platforms to the top where Baby Roo is being held captive. The monkeys will be trying to stop you by throwing or dropping apples and knocking you off the platforms. Your kangaroo has boxing gloves, however, and can knock out the monkeys with a single punch! Along the way various types of fruit can be collected to earn bonus points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Kangaroo-image.jpg</image>
+		<developer>Sun Electronics</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Karate.bin</path>
+		<name>Karate (Ultravision)</name>
+		<desc>One of the earlier non-boxing fighting games, Karate is a head-to-head sparring match between two tall, slow, boxy looking men. The guys punch and kick one another (straight or up), and blocking is included.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Karate-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Ultravision</developer>
+		<publisher>Ultravision</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Koolaide.bin</path>
+		<name>Kool-Aid Man</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Koolaide-image.jpg</image>
+		<rating>0</rating>
+		<developer>M Network</developer>
+		<publisher>Mattel</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Krull.bin</path>
+		<name>Krull</name>
+		<desc>Krull for the Atari 2600 tells the tale of Prince Colwyn and his quest to rescue fiancee Princess Lyssa from the dreaded Beast, a creature that kidnapped her on the day she was to marry. 
+
+The game begins at the marriage ceremony of Prince Colwyn and Princess Lyssa. The Beast's Slayers interrupt the ceremony, however. Use your sword to fend them off as long as you can. If one of the creatures reaches the bottom of the screen, Princess Lyssa will be kidnapped and you must race off to save her.
+
+Mount your horse and cross the Iron Desert in the side-scrolling portion of the game, where you can pick up five-sided throwing stars known as Glaives to fight the Beast. You can also pick up extra lives as well!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Krull-image.jpg</image>
+		<releasedate>19830901T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./misn3000.BIN</path>
+		<name>Mission 3000</name>
+		<desc>Good Rip-off of the Atari 2600 game "Asteroids". You are flying in space, trying to dodge or shoot asteroids and escape from the enemy.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/misn3000-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bit Corporation</developer>
+		<publisher>Bit Corporation</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Obelix.bin</path>
+		<name>Obelix</name>
+		<desc>The objective of the game is to help Asterix "stun" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.
+
+If by any chance a stunned soldier is not whacked by a flying menhir, they turn "red" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the "red" Romans, so be ready to catch some when Getafix comes knocking.
+
+There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Obelix-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Oink.bin</path>
+		<name>Oink!</name>
+		<desc>Oink! is based on the fairy tale of the three little pigs. The big bad wolf is trying to blow down each of the pigs houses. You control each pig one at a time. The wolf is at the bottom of the screen and will blow a hole in the house one section at a time. Each time a hole is formed, the pig must patch it up quickly so the wolf can't get in. New materials are located at the top of the screen, and you need to grab them and place them in the holes as they are formed. The longer you last, the tougher the wolf will become! You start the game controlling the pig whose house is made of straw; when he is caught, you move on to the pig in the house made of sticks. Finally you will control the pig in the house made of bricks. When all three pigs have been caught by the wolf, the game is over.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Oink-image.jpg</image>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Othello.bin</path>
+		<name>Othello</name>
+		<desc>You'll need strategy, foresight and cunning to be a success at this game.
+
+The field is made up of a grid containing 64 squares.  Each player is designated by a color(white or black) and takes turns trying to capture as many squares as possible.  When you capture a square, it becomes your square and changes to your color.  Your corresponding score is displayed at the top of the screen.
+
+To capture a square, you must OUTFLANK your opponent.  To do this, you must position your squares on the grid so that one or more of your opponent's squares is in a row which is bordered on each end by one of your squares.
+
+If neither player can make a move the game is over.  This can occur when one player has no pieces left on the board.  It is also possible to end a game when there are blank squares on the board and both players have pieces left but there are no legal moves.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Othello-image.jpg</image>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Outlaw.bin</path>
+		<name>Outlaw</name>
+		<desc>You're a gunslinger in the old west! Outlaw features both one and two player games. In the one player version, your goal is to shoot a moving target as many times as possible in 99 seconds. In the two player version, each player tries to be the first to shoot his opponent ten times. Several game variations are included in both the one and two player versions. In the middle of the screen is one of several possible obstacles to make the game more difficult. A giant cactus, a stagecoach, a moving stagecoach, or a breakable wall all can block the target or provide some shelter for you to hide from your opponents shots. You also have the choice of unlimited fire, or only a six shooter. If you choose the six shooter, then each player must use up all six shots before either player can reload. And lastly, there is the "getaway" option. With getaway, a player may move immediately after firing; without getaway, a player must remain stationary for as long as his bullet is on the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Outlaw-image.jpg</image>
+		<developer>Atari</developer>
+		<publisher>Sears</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pengo.bin</path>
+		<name>Pengo</name>
+		<desc>Go skating on thin ice! Race Pengo, the lovable penguin, around a frozen lake. Rearrange huge blocks of ice. Your goal: line up three jewel-embedded blocks for dazzling points! Your enemies: SNO-BEES! Their touch puts you in deep freeze.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pengo-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Phoenix.bin</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is an arcade action game with gameplay similar to Space Invaders. You are the commander of the Phoenix, and your mission is to reach an alien spaceship which has been draining your planets resources. The ship is guarded by four levels of bird like creatures. After clearing all four stages, the fifth level will be against a large, heavily shielded mothership. If the mothership is destroyed, the game will then repeat, but with increased speed and difficulty. To defeat the numerous enemies, the Phoenix is equipped with a laser cannon and a force field.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Phoenix-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Picnic.bin</path>
+		<name>Picnic</name>
+		<desc>You call this a picnic!!?? Just when you are ready to sit down and eat your juicy cheeseburgers, a swarm of nasty bugs comes along intent on beating you to the munch. They start eating and you start swatting, and the battle has begun. It's a good thing you brought along your bug zapping trap. Now, swat those critters into the trap, and just maybe there will be something left for you to eat for lunch.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Picnic-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Western Technologies Inc.</developer>
+		<publisher>US Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pitfall.bin</path>
+		<name>Pitfall!</name>
+		<desc>The player must maneuver a character known as Pitfall Harry through a maze-like jungle in an attempt to recover 32 treasures in a 20-minute time period. Along the way, he must negotiate numerous hazards, including pits, quicksand, rolling logs, fire, rattlesnakes, scorpions, and crocodiles. Harry may jump over or otherwise avoid these obstacles by climbing, running, or swinging on a vine to avoid them. Treasure includes gold and silver bars, diamond rings, and bags of money. Under the jungle there is a tunnel which Harry can access through ladders found at various places. This is required to get around some surface areas that have no way across otherwise. The tunnels are filled with dead-ends blocked by brick walls, forcing the player return to the surface at one of the ladders, and try to find a way around again. The tunnels also contain treasure and scorpions Harry must jump over.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Pitfall-image.jpg</image>
+		<releasedate>19820420T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Polaris.bin</path>
+		<name>Polaris</name>
+		<desc>You're the commander of a Polaris class nuclear submarine. Your mission is to defend your country from enemy attack.
+
+You must face one to three enemy subs and one to five bombers in a squad. You must destroy the bombers by shooting missiles. After you destroy the bomber squadron, you must face a dive bomber dropping torpedoes that plunge to your depth then move horizontally. After destroying him, you must navigate through a channel, avoiding or torpedoing mines to reach the next level. Occasionally, an enemy destroyer will move across the screen and will drop a depth charge.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Polaris-image.jpg</image>
+		<releasedate>19831231T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Tigervision</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./polo.BIN</path>
+		<name>Polo</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/polo-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Popeye.bin</path>
+		<name>Popeye</name>
+		<desc>In this game, you're POPEYE! And your goal is to catch all of Olive's hearts, notes, and "Xs"  (smooches!) before they hit the water and sink--or before Brutus or the Sea Hag's bottles knock you overboard.  Each time you complete a round, you'll automatically proceed to the next--and more difficult one.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Popeye-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Rampage.bin</path>
+		<name>Rampage</name>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Rampage-image.jpg</image>
+		<developer>Bally Midway</developer>
+		<publisher>Activision</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Reactor.bin</path>
+		<name>Reactor</name>
+		<desc>Reactor is a conversion of the arcade game. You control a space ship inside a nuclear reactor which you are trying to stop from melting down! The reactor core at the center of the screen is surrounded by a deadly kill wall. Roaming throughout the available space are positrons, neutrinos, and photons, all of which will be trying to knock your ship into the wall. To survive you will need to knock all of these attacking particles into the kill wall to destroy them. As each level progresses, the reactor core will slowly grow in size, making less and less room to maneuver in. Eventually the reactor core will melt down; to prevent this, you need to destroy all of the particles before time runs out! To help out, you start the game with a limited number of decoys. When a decoy is placed on the screen, all of the particles will be attracted to it instead of your ship. If you place the decoy close enough to the kill wall, this will make it easier to destroy the particles. Also inside the reactor are two sets of control rods (located on the left and right sides of the screen); If you destroy an entire set of rods by knocking the particles into them, the reactor core will shrink down in size, giving you more time for your battle. If you destroy both sets of rods, you earn an extra decoy.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Reactor-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Gottlieb</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Sprintmaster.bin</path>
+		<name>Sprintmaster</name>
+		<desc>Sprintmaster is an action racing game similar to Super Sprint. The game is played with an overhead view of the racetrack, and the first of two players to race around the track for the required number of laps wins! Occasionally a bonus will appear in the roadway; collect these to increase the traction capabilities of your car or gain a temporary speed boost. Other obstacles, such as oil slicks, may also appear in the roadway which will cause you to lose control and speed. There is a total of nine different tracks with varying levels of difficulty to race on, and you can choose either blacktop, dirt, or ice for terrain.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Sprintmaster-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Atari Corporation</developer>
+		<publisher>Atari Corporation</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Raiders.bin</path>
+		<name>Star Raiders</name>
+		<desc>Star Raiders was distinctive for its graphics, which (under most conditions) represented an out-the-cockpit, first-person view from a fictional combat spaceship traveling through a streaming 3D starfield in pursuit of enemy fighters called "Zylons".</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Star Raiders-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Motocross Racer.bin</path>
+		<name>Street Racer</name>
+		<desc>Street Racer is an action racing game for one to four players played from an overhead view. The screen is split into two lanes; in one or two player games, each player has a lane. In three and four player games, players must share the lanes. Each game has a two minute and sixteen second time limit, and your goal is to earn as many points as possible by the end of this time. In addition to the basic racing version, several other game variations are included as well.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Motocross Racer-image.jpg</image>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Racing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Tapper.bin</path>
+		<name>Tapper</name>
+		<desc>You are a frenzied bartender trying to keep the never ending flow of thirsty customers well watered.  You'll have to keep slinging sodas and occasionally guess which cans of soda the Soda Bandit has shaken.
+
+As if that's not enough work for one bartender, try covering four different bars with a different crazy crowd in each bar.  There's the Old West Saloon, the Jock Bar, the Punk Rock Bar, and the Space Bar.
+
+Keep the sodas coming, but not too fast.  You'd better be sure you've got a customer without a drink at the bar or the drink will slide right off the bar and no self-respecting bartender throws drinks away.  Keep your eyes open for the empties the customers sling back your way.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Tapper-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bally Midway Manufacturing Co., Inc.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tennis.bin</path>
+		<name>Tennis</name>
+		<desc>Now, you'll never have to wait for a court again. With Tennis by ACTIVISION (TM), you can enjoy the challenge and excitement of tennis right on your home TV. But before you start, take a minute and read these important instructions. They'll help you to really  enjoy all the special features of the game. In no time you'll be playing like a pro!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Tennis-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Stellar Track.bin</path>
+		<name>Track &amp; Field</name>
+		<desc>Track &amp; Field, known in Japan as Hyper Olympic (ハイパーオリンピック?), is a 1983 Olympic-themed arcade game developed and published by Konami.
+
+The arcade version was released in 1983. The simple gameplay, based on quick repeating button presses, set the basics for sequels and similar games in the genre for the next decades. There were several home versions of the original; the ZX Spectrum and Amstrad CPC versions were only released as part of the Game, Set and Match II compilation in 1988, and are poorly regarded by fans.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Stellar Track-image.jpg</image>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Turmoil.bin</path>
+		<name>Turmoil</name>
+		<desc>The objective is to zoom up and down the center alley and blast aliens as they streak by.  Keep shooting and keep moving to avoid a deadly collision with a speeding alien spacecraft.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Turmoil-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sirius Software</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Vanguard.bin</path>
+		<name>Vanguard</name>
+		<desc>Join the Vanguard expedition on a thrilling space odyssey. Fight your way through the perilous tunnels of Aterria to the fabulous City of Mystery and destroy the great Gond! Based on the popular video arcade game. Features 4-way firing.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Vanguard-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Venture.bin</path>
+		<name>Venture</name>
+		<desc>Venture is an action game in which you control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Venture-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Coleco</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Cmpchess.bin</path>
+		<name>Video Chess</name>
+		<desc>The ancient game of strategy can now be played on your television screen with the release of Atari's Video Chess. The goal is still the same: capture your opponent's king while protecting your own. Video Chess is a one-player game that offers eight different skill levels, including a special children's level that is appropriate for those still learning how to play.
+
+Each player begins with sixteen pieces on opposite sides of a checkered game board: eight pawns, two bishops, two knights, two rooks, one queen and one king. One side plays with black, the other with white. Depending on the rank (with the pawn being the lowest and king highest), each piece can move across the board a certain number of spaces or in a specific direction.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Cmpchess-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./VideoSimon.bin</path>
+		<name>Video Simon</name>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/VideoSimon-image.jpg</image>
+		<rating>0</rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Wabbit.bin</path>
+		<name>Wabbit</name>
+		<desc>You are a farmer, named Billie Sue, trying to protect your crops. One patch in particular is giving you trouble.  It's surrounded by ten holes from which wabbits [sic] dart into your field.  Scare off the pesky creatures by throwing wotten eggs at them (they're in 
+abundance this year and worth much less than good country carrots).
+ 
+The score on the left depicts the number of carrots the wabbits have snatched and deposited in their wabbit holes.  The current carrot count increases every time a wabbit gets back into his hole with one of your carrots.  Your score increases every time you wallop a wabbit with a wotten egg.  It's an egg-citing experience.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Wabbit-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Apollo</developer>
+		<publisher>Apollo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Warlords.bin</path>
+		<name>Warlords</name>
+		<desc>In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Warlords-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./sirlance.bin</path>
+		<name>Xonox - Robin Hood/Sir Lancelot</name>
+		<desc>As one of the Xonox "Double Ender" cartridges, this features Robin Hood and Sir Lancelot. Each of the two games was released separately, though it's generally more common to find them in this form. This particular double-ender is the most common to feature either of these games.
+The Double-Ender is two games in one - each end of the cartridge has a different game. These cartridges are about 2.5 inches longer than a standard cartridge, and the case is wider in the middle. There is one long label that is typically blue, with game art for both sides split diagonally down the middle. Titles are printed in red text against a yellow banner. All the titles found on the Double-Enders can also be found in standard single-ended cases.
+Xonox, based in Minnesota, started developing Atari cartridges during the height of the 2600's popularity. They contributed many high quality games available for the early platforms. Xonox capitalized on the novelty and perceived value of "double-ender" cartridges. These could be inserted into the console on one of the two ends, each end offering a different game. Different double-ender configurations could package the same game with different counterparts. Xonox was not the first company to try this; Playaround did it earlier with their adult-themed titles. Xonox eventually abandoned this idea and began releasing single versions of some of the titles previously offered as double-enders as well as a few new titles.
+Xonox was one of many small video game companies to fold during the Video Game Crash of 1983.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/sirlance-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Zaxxon.bin</path>
+		<name>Zaxxon</name>
+		<desc>This fantastic 3-dimensional space battle game puts you in control of a futuristic spaceship! Your ship zooms over an alien asteroid, and dives down to attack the enemy's installations. Your ship must avoid hazardous walls, enemy fire, and other unforeseen dangers! Can you survive and score?</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600-libretro/Zaxxon-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+</gameList>

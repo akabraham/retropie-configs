@@ -1,0 +1,30 @@
+/home/pi/RetroPie/roms/segacd/NBA_Jam/NBA Jam.cue
+
+/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/home/pi/RetroPie/roms/segacd/Sonic_CD/Sonic CD.iso
+
+/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/home/pi/RetroPie/roms/segacd/NBA Jam.cue
+
+/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/home/pi/RetroPie/roms/segacd/Sonic_CD/Sonic CD.iso
+
+/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so
+PicoDrive
+
+
+/home/pi/RetroPie/roms/segacd/Sonic CD.iso
+
+/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so
+PicoDrive
+
+
