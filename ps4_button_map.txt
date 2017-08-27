@@ -1,0 +1,38 @@
+PS4 Controller Retroarch Button Map
+===================================
+# Assumes SNES Style Button layout
+
+up: hat 0 up
+down: hat 0 down
+left: hat 0 left
+right: hat 0 right
+
+joystick up: axis 1-
+joystick down: axis 1+
+joystick left: axis 0-
+joystick right: axis 0+
+
+right joystick up: axis 5-
+right joystick down: axis 5+
+right joystick left: axis 2-
+right joystick right: axis 2+
+
+A: Button 2
+B: Button 1
+X: Button 3
+Y: Button 0
+
+start: Button 9
+select: Button 8
+
+L1: Button 4
+R1: Button 5
+L2: Button 6
+R2: Button 7
+
+Menu: Button 12
+Touchpad: Button 13
+
+L3: Button 10
+R3: Button 11
+

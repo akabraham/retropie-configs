@@ -1,0 +1,27 @@
+Logitech F310 Controller Button Map
+===================================
+
+Start:          button(7)
+Select:         button(6)
+
+Menu:           button(8)
+
+L1:             button(4)
+R1:             button(5)
+
+L2:             axis(2+)
+R2:             axis(5+)
+
+L3 (l-thumb):   button(9)
+R3 (r-thumb):   button(10)
+
+Left analog right:  axis(0+)
+Left analog left:   axis(0-)
+Left analog down:   axis(1+)
+Left analog up:     axis(1-)
+
+Logitech Buttons:
+A:              button(0) # equivalent to retroarch "B" button (input_player1_b_btn)
+B:              button(1) # equivalent to retroarch "A" button (input_player1_a_btn)
+X:              button(2) # equivalent to retroarch "Y" button (input_player1_y_btn)
+Y:              button(3) # equivalent to retroarch "X" button (input_player1_x_btn)
